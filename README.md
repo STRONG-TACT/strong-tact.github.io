@@ -1,1 +1,1 @@
-run ```bundle exec jekyll serve to test locally```
+run ```bundle exec jekyll serve``` to test locally
