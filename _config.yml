@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 
-domain: diceadventure-hackathon.github.io
-url: diceadventure-hackathon.github.io
+domain: strong-tact.github.io
+url: strong-tact.github.io
 
 title: Dice Adventure Competition
 author:
