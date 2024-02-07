@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+thumbnail: "/files/welcome.png"
 ---
 
 <p align="center">
@@ -19,9 +20,14 @@ Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game de
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
 |Agent training environment released                |February, 2024       |
+|Low fidelity version of Dice Adventure released    |March, 2024          |
+|Level 1 and Level 2 released                       |April, 2024          |
+|Fully functional game released                     |May, 2024            |
+|Leaderboard design released                        |May, 2024            |
+|Evaluation criteria released                       |May, 2024            |
 |Agent submission portal open                       |                     |
 |Agent submission portal closed                     |                     |
-|Hackathon                                          |June 25-26, 2024                     |
+|Hackathon                                          |June 25-26, 2024     |
 
 ## Submission Guidelines
 The Agent Track and the Player Track
