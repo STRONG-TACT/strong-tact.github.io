@@ -13,13 +13,13 @@ order: 1
 
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
-|Agent training environment released                |February, 2024       |
-|Low fidelity version of Dice Adventure released    |March, 2024          |
-|Fully functional game released                     |May, 2024            |
-|Leaderboard design released                        |May, 2024            |
-|Evaluation criteria released                       |May, 2024            |
-|Agent submission portal open                       |                     |
-|Agent submission portal closed                     |                     |
+|Release agent training environment                 |March, 2024          |
+|Release low fidelity version of Dice Adventure     |March, 2024          |
+|Release Fully functional game (practise version)   |May 1, 2024          |
+|Release eaderboard design                          |May 1, 2024          |
+|Release evaluation criteria                        |May 1, 2024          |
+|Agent submission portal openes                     |                     |
+|Agent submission portal closes                     |                     |
 |Hackathon                                          |June 25-26, 2024     |
 
 ## Organization and Schedule
