@@ -42,3 +42,8 @@ Participants can submit their agents to this track.
 Participants who are interested in playing Dice Adventure can play with the agents and other human players in this track.
 
 ## Organizers
+Qiao Zhang, qzhang490@gatech.edu \\
+Christopher J. MacLellan, cmaclellan3@gatech.edu \\
+Erik Harpstead, harpstead@cmu.edu \\
+Glen Smith \\
+Adit Gupta
