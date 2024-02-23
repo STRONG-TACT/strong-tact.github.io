@@ -17,7 +17,7 @@ order: 2
 |Release low fidelity version of Dice Adventure     |March 1, 2024        |
 |Release game tutorial with video demos             |March 1, 2024        |
 |Release Fully functional game (practise version)   |May 1, 2024          |
-|Release eaderboard design                          |May 1, 2024          |
+|Release leaderboard design                          |May 1, 2024          |
 |Release evaluation criteria                        |May 1, 2024          |
 |Agent submission portal opens                      |May 15, 2024         |
 |Agent submission portal closes                     |July 15, 2024        |
