@@ -48,5 +48,7 @@ Participants who are interested in playing Dice Adventure can play with the agen
 Qiao Zhang, qzhang490@gatech.edu \\
 Christopher J. MacLellan, cmaclellan3@gatech.edu \\
 Erik Harpstead, harpstead@cmu.edu \\
-Glen Smith \\
-Adit Gupta
+Glen Smith, glensmith@gatech.edu \\
+Varun Girdhar, vgirdhar@andrew.cmu.edu \\
+Ziyu Li, ziyul@andrew.cmu.edu \\
+Adit Gupta, ag3338@drexel.edu
