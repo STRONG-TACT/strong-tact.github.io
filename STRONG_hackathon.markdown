@@ -19,7 +19,7 @@ order: 1
 |Release Fully functional game (practise version)   |May 1, 2024          |
 |Release leaderboard design                         |May 1, 2024          |
 |Release evaluation criteria                        |May 1, 2024          |
-|Agent submission portal openes                     |TBD                  |
+|Agent submission portal openes                     |May 1, 2024          |
 |Agent submission portal closes                     |TBD                  |
 |Hackathon                                          |June 25-26, 2024     |
 

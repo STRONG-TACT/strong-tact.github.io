@@ -38,7 +38,7 @@ The game tutorial will be released on 3/1/2024.
 
 ## Competition Tracks
 
-### Agent Track
+### Agent Development Track
 Participants can submit their agents to this track.
 
 ### Player Track
@@ -46,9 +46,9 @@ Participants who are interested in playing Dice Adventure can play with the agen
 
 ## Organizers
 Qiao Zhang, qzhang490@gatech.edu \\
-Christopher J. MacLellan, cmaclellan3@gatech.edu \\
-Erik Harpstead, harpstead@cmu.edu \\
 Glen Smith, glensmith@gatech.edu \\
 Varun Girdhar, vgirdhar@andrew.cmu.edu \\
 Ziyu Li, ziyul@andrew.cmu.edu \\
 Adit Gupta, ag3338@drexel.edu
+Erik Harpstead, harpstead@cmu.edu \\
+Christopher J. MacLellan, cmaclellan3@gatech.edu
