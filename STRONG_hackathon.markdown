@@ -27,12 +27,19 @@ order: 1
 
 ### Tentative Day 1 Schedule (6/24)
 
-| Start | End   | Activity                                     |
+The schedule will be posted as the event date is coming up.
+
+<!-- | Start | End   | Activity                                     |
 |-------|-------|----------------------------------------------|
-| 9:00  | 9:30  | Welcome & Introduction                       |
+| 9:00  | 9:30  | Welcome & Introduction                       | -->
 
 ### Tentative Day 2 Schedule (6/25)
 
-| Start | End   | Activity                                     |
+The schedule will be posted as the event date is coming up.
+
+
+<!-- | Start | End   | Activity                                     |
 |-------|-------|----------------------------------------------|
-| 4:00  | 5:00  | Reflection & Discussion Session              |
+| 4:00  | 5:00  | Reflection & Discussion Session              | -->
+
+
