@@ -19,9 +19,9 @@ better understanding in team communication, coordination and adaptation.
 ## Submission Guidelines
 
 <!-- add submission portal -->
-The submission portal for CoG competition will be opened on 5/15/2024. \\
-Please fill out [this form](https://forms.gle/tFXvt6g2n32Jti8M8) to sign up for [STRONG hackathon](STRONG_hackathon.markdown) updates.\\
-Please fill out [this form](https://forms.gle/JKqz446q3PtP1Ly79) to sign up for [CoG Competition](cog_competition.markdown) updates.
+The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024. \\
+Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqvlSm3QoSi) to sign up for [STRONG hackathon](STRONG_hackathon.markdown) updates.\\
+Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6HzbdmDv8y) to sign up for [CoG Competition](cog_competition.markdown) updates.
 
 ## Game Tutorial
 [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
@@ -38,7 +38,7 @@ The game tutorial will be released on 3/1/2024.
 
 ## Competition Tracks
 
-### Agent Track
+### Agent Development Track
 Participants can submit their agents to this track.
 
 ### Player Track
@@ -46,9 +46,9 @@ Participants who are interested in playing Dice Adventure can play with the agen
 
 ## Organizers
 Qiao Zhang, qzhang490@gatech.edu \\
-Christopher J. MacLellan, cmaclellan3@gatech.edu \\
-Erik Harpstead, harpstead@cmu.edu \\
 Glen Smith, glensmith@gatech.edu \\
 Varun Girdhar, vgirdhar@andrew.cmu.edu \\
 Ziyu Li, ziyul@andrew.cmu.edu \\
 Adit Gupta, ag3338@drexel.edu
+Erik Harpstead, harpstead@cmu.edu \\
+Christopher J. MacLellan, cmaclellan3@gatech.edu
