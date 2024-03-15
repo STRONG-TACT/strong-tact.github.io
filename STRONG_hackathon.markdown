@@ -9,7 +9,9 @@ order: 1
 * TOC
 {:toc}
 
-## Key Dates
+## Important Event Information
+
+### Key Dates
 
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
@@ -24,6 +26,20 @@ order: 1
 |Agent submission portal openes                     |May 1, 2024          |
 |Agent submission portal closes                     |TBD                  |
 |Hackathon                                          |June 25-26, 2024     |
+
+### Event Location
+
+- The hackathon will be hosted at Georgia Institute of Technology in Atlanta, GA.
+- Information on the venue, parking information, and suggested hotel will be posted soon.
+
+### Registration Details
+
+ - Please fill out [this interest form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqvlSm3QoSi) to sign up for updates.
+ - Registration link will be released soon.
+
+### Submission Details
+ The submission portal will be opened on 5/1/2024.
+
 
 ## Organization and Schedule
 
