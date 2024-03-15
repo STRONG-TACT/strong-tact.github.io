@@ -24,11 +24,12 @@ Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqv
 Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6HzbdmDv8y) to sign up for [CoG Competition](cog_competition.markdown) updates.
 
 ## Game Tutorial
-[Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
+A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
 
+[Dice Adventure](https://cmu-tact.itch.io/dice-adventure) can be played online at (https://cmu-tact.itch.io/dice-adventure).
 
-<img src = "/files/38Asset97.png"></p>
-<img src = "/files/38Asset98.png"></p>
+<img src = "/files/38Asset97.png">
+<img src = "/files/38Asset98.png">
 
 
 <!-- - Tutorial
