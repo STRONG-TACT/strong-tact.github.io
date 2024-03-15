@@ -15,9 +15,13 @@ order: 2
 |---------------------------------------------------|---------------------|
 |Release agent training environment                 |March 15, 2024       |
 |Release low fidelity version of Dice Adventure     |March 15, 2024       |
+<<<<<<< HEAD
 |Release a playable version of the game             |March 15, 2024       |
 |Release game tutorial                              |March 15, 2024       |
 |Release game play demo videos                      |TBD                  |
+=======
+|Release game tutorial with video demos             |March 15, 2024       |
+>>>>>>> 366e1ae43d7a451d728e7af3ee542b38d56d6218
 |Release Fully functional game (practise version)   |May 1, 2024          |
 |Release leaderboard design                         |May 1, 2024          |
 |Release evaluation criteria                        |May 1, 2024          |
