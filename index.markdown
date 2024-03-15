@@ -16,13 +16,6 @@ better understanding in team communication, coordination and adaptation.
 {:toc}
 
 
-## Submission Guidelines
-
-<!-- add submission portal -->
-The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024. \\
-Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqvlSm3QoSi) to sign up for [STRONG hackathon](STRONG_hackathon.markdown) updates.\\
-Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6HzbdmDv8y) to sign up for [CoG Competition](cog_competition.markdown) updates.
-
 ## Game Tutorial
 A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
 
@@ -31,7 +24,6 @@ A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) c
 <img src = "/files/38Asset97.png">
 <img src = "/files/38Asset98.png">
 
-
 <!-- - Tutorial
     - different characters and their abilities
     - obstacles: stone, trap, monster
@@ -39,6 +31,17 @@ A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) c
 - Demo video
     - pinning system
     - battling system -->
+
+
+## Submission Guidelines
+
+<!-- add submission portal -->
+The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024. \\
+Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqvlSm3QoSi) to sign up for [STRONG hackathon](STRONG_hackathon.markdown) updates.\\
+Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6HzbdmDv8y) to sign up for [CoG Competition](cog_competition.markdown) updates.
+
+## Training Environment
+A low fidelity version of Dice Adventure can be acccessed at [https://github.com/STRONG-TACT/Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents).
 
 ## Competition Tracks
 
