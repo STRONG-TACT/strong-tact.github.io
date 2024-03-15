@@ -49,6 +49,6 @@ Qiao Zhang, qzhang490@gatech.edu \\
 Glen Smith, glensmith@gatech.edu \\
 Varun Girdhar, vgirdhar@andrew.cmu.edu \\
 Ziyu Li, ziyul@andrew.cmu.edu \\
-Adit Gupta, ag3338@drexel.edu
+Adit Gupta, ag3338@drexel.edu \\
 Erik Harpstead, harpstead@cmu.edu \\
 Christopher J. MacLellan, cmaclellan3@gatech.edu
