@@ -26,7 +26,10 @@ Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6H
 ## Game Tutorial
 [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
 
-The game tutorial will be released on 3/1/2024.
+
+<img src = "/files/38Asset97.png"></p>
+<img src = "/files/38Asset98.png"></p>
+
 
 <!-- - Tutorial
     - different characters and their abilities
