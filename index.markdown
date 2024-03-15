@@ -46,10 +46,14 @@ A low fidelity version of Dice Adventure can be acccessed at [https://github.com
 ## Competition Tracks
 
 ### Agent Development Track
-Participants can submit their agents to this track.
+Participants can submit their agents to this track. The submission potal will be opened on 5/1/2024.
+Instructions on submitting and testing agent will be posted soon.
 
 ### Player Track
-Participants who are interested in playing Dice Adventure can play with the agents and other human players in this track.
+Participants who are not submitting agents but interested in participating can play Dice Adventure with the submitted agents and other human players in this track. Players can form any teams but only hybrid teams will be considered as competition entries and be evaluated. There are two allocations for the hybrid teams: (1) two human players and one AI agent; (2) one human player and two AI agents.
+
+## Evaluation Criteria
+Submissions to the agent track will not be evaluated separately on their performance in the game. All agents wil be evaluated based on the teamming performance. Detailed information on winner declaration will be posted soon.
 
 ## Organizers
 Qiao Zhang, qzhang490@gatech.edu \\
