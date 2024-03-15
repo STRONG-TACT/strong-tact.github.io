@@ -9,7 +9,9 @@ order: 2
 * TOC
 {:toc}
 
-## Key Dates
+## Important Event Information
+
+### Key Dates
 
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
@@ -24,13 +26,20 @@ order: 2
 |Agent submission portal closes                     |July 15, 2024        |
 |CoG conference                                     |August 5-8, 2024     |
 
+### Competition Logistics
+
+- Location: the competition will run at Conferece on Games in Milan, Italy. Please refer to the official [CoG website](https://2024.ieee-cog.org/) for more information.
+- Registration: please refer to the official [CoG website](https://2024.ieee-cog.org/) for registration information.
 <!-- point to submission of auxiliary paper to CoG -->
+
+### Submission Details
+ The submission portal will be opened on May 1, 2024 and will be closed on July 15, 2024.
 
 ## Organization and Schedule
 
 ### Tentative Schedule
 
-The schedule will be released as the conference dates are coming up.
+TThe schedule will be released as the conference dates are coming up.
 
 <!-- | Start | End   | Activity                                     |
 |-------|-------|----------------------------------------------|
