@@ -23,7 +23,7 @@ A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) c
 
 [Dice Adventure](https://cmu-tact.itch.io/dice-adventure) can also be played online at (https://cmu-tact.itch.io/dice-adventure).
 
-Below are the game tutorials that 
+Below are the game tutorials that introduce character abilities, game objects, and game rules.
 
 <img src = "/files/38Asset97.png">
 <img src = "/files/38Asset98.png">
@@ -40,7 +40,7 @@ Below are the game tutorials that
 ## Submission Guidelines
 
 <!-- add submission portal -->
-The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024. \\
+The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024.
 
 
 ## Training Environment
