@@ -9,8 +9,7 @@ thumbnail: "/files/welcome.png"
 <p align="center">
 <img src = "/files/welcome.png"></p>
 
- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will be randomly matched with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a
-better understanding in team communication, coordination and adaptation.
+ Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation.
 
 * TOC
 {:toc}
@@ -19,7 +18,7 @@ better understanding in team communication, coordination and adaptation.
 ## Game Tutorial
 A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
 
-[Dice Adventure](https://cmu-tact.itch.io/dice-adventure) can be played online at (https://cmu-tact.itch.io/dice-adventure).
+[Dice Adventure](https://cmu-tact.itch.io/dice-adventure) can also be played online at (https://cmu-tact.itch.io/dice-adventure).
 
 <img src = "/files/38Asset97.png">
 <img src = "/files/38Asset98.png">
