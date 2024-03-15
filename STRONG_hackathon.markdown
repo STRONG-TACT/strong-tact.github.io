@@ -38,7 +38,7 @@ order: 1
  - Registration link will be released soon.
 
 ### Submission Details
- The submission portal will be opened on 5/1/2024.
+ The submission portal will be opened on May 1, 2024. Deadline of submission will be announced soon.
 
 
 ## Organization and Schedule
