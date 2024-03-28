@@ -28,6 +28,8 @@ Below are the game tutorials that introduce character abilities, game objects, a
 <img src = "/files/38Asset97.png">
 <img src = "/files/38Asset98.png">
 
+Detailed information on game rules, character introduction and how to play the game can be accessed in the [Master Rulebook](https://docs.google.com/document/d/1YOSnrPz8EcrrrVsWRTMAMLsKLK9t8jRiTQkXvx9TB5E/edit?usp=sharing).
+
 <!-- - Tutorial
     - different characters and their abilities
     - obstacles: stone, trap, monster
@@ -66,3 +68,4 @@ Ziyu Li, ziyul@andrew.cmu.edu \\
 Adit Gupta, ag3338@drexel.edu \\
 Erik Harpstead, harpstead@cmu.edu \\
 Christopher J. MacLellan, cmaclellan3@gatech.edu
+

@@ -15,10 +15,10 @@ order: 1
 
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
-|Release agent training environment                 |March 15, 2024       |
-|Release low fidelity version of Dice Adventure     |March 15, 2024       |
-|Release a playable version of the game             |March 15, 2024       |
-|Release game tutorial                              |March 15, 2024       |
+|~~Release agent training environment~~                 |~~March 15, 2024~~       |
+|~~Release low fidelity version of Dice Adventure~~     |~~March 15, 2024~~       |
+|~~Release a playable version of the game~~             |~~March 15, 2024~~       |
+|~~Release game tutorial~~                              |~~March 15, 2024~~       |
 |Release game play demo videos                      |TBD                  |
 |Release Fully functional game (practise version)   |May 1, 2024          |
 |Release leaderboard design                         |May 1, 2024          |
@@ -59,5 +59,7 @@ The schedule will be posted as the event date is coming up.
 <!-- | Start | End   | Activity                                     |
 |-------|-------|----------------------------------------------|
 | 4:00  | 5:00  | Reflection & Discussion Session              | -->
+
+Last updated on 3/27/2024.
 
 
