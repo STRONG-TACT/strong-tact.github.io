@@ -24,7 +24,7 @@ order: 1
 |Release leaderboard design                         |May 1, 2024          |
 |Release evaluation criteria                        |May 1, 2024          |
 |Agent submission portal openes                     |May 1, 2024          |
-|Agent submission portal closes                     |TBD                  |
+|Agent submission portal closes                     |July 1, 2024         |
 |Hackathon                                          |June 25-26, 2024     |
 
 ### Event Location

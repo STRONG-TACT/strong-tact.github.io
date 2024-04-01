@@ -23,7 +23,7 @@ order: 2
 |Release leaderboard design                         |May 1, 2024          |
 |Release evaluation criteria                        |May 1, 2024          |
 |Agent submission portal opens                      |May 15, 2024         |
-|Agent submission portal closes                     |July 15, 2024        |
+|Agent submission portal closes                     |July 1, 2024         |
 |CoG conference                                     |August 5-8, 2024     |
 
 ### Competition Logistics
