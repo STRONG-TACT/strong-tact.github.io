@@ -36,18 +36,26 @@ Details will be posted soon.
 
 The schedule will be posted as the event date is coming up.
 
-<!-- | Start | End   | Activity                                     |
-|-------|-------|----------------------------------------------|
-| 9:00  | 9:30  | Welcome & Introduction                       | -->
+<!-- |Start  |End    | Session Type      |Activity                      |Presenter      |
+|-------|-------|-------------------|------------------------------|---------------|
+|9:00   |9:20   |Opening/Intro      |Welcome & Overview            |Qiao Zhang     |
+|9:20   |10:00  |Talk               |STRONG program Overview       |David Boothe   |
+|10:00  |11:00  |Demo               |Dice Adventure Game Demo      |Erik Harpstead |
+|11:00  |12:00  |Game Play          |Session of game play          |N/A            |
+|12:00  |1:00   |Break              |Lunch (catering)              |N/A            |
+|1:00   |2:00   |Interactive demo   |Space Transit                 |Ying Choon Wu  |
+|2:00   |3:00   |Tutorial           |Dice Adventure Unity setup    |Erik Harpstead |
+|3:00   |3:20   |Break              |Coffee break and networking   |N/A            |
+|3:20   |4:30   |Tutorial           |Training environment setup    |Glen Smith     | -->
+
 
 ### Tentative Day 2 Schedule (6/25)
 
-The schedule will be posted as the event date is coming up.
+The schedule will be posted as the evaent date is coming up.
 
-
-<!-- | Start | End   | Activity                                     |
-|-------|-------|----------------------------------------------|
-| 4:00  | 5:00  | Reflection & Discussion Session              | -->
+<!-- |Start  |End    | Session Type      |Activity                      |Presenter      |
+|-------|-------|-------------------|------------------------------|---------------|
+|4:00   |5:00   |                   |Reflection & Discussion       |Chris MacLellan| -->
 
 
 ## Travel and Accommodations
