@@ -18,17 +18,23 @@ Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6H
 {:toc}
 
 
-## Game Tutorial
-A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
+## Key Dates
 
-[Dice Adventure](https://cmu-tact.itch.io/dice-adventure) can also be played online at (https://cmu-tact.itch.io/dice-adventure).
+| Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
+|---------------------------------------------------|---------------------|
+|~~Release agent training environment~~                 |~~March 15, 2024~~       |
+|~~Release low fidelity version of Dice Adventure~~     |~~March 15, 2024~~       |
+|~~Release a playable version of the game~~             |~~March 15, 2024~~       |
+|~~Release game tutorial~~                              |~~March 15, 2024~~       |
+|Release game play demo videos                      |TBD                  |
+|Release Fully functional game (practise version)   |May 1, 2024          |
+|Release leaderboard design                         |May 1, 2024          |
+|Release evaluation criteria                        |May 1, 2024          |
+|Agent submission portal openes                     |May 1, 2024          |
+|STRONG Hackathon                                   |June 24-25, 2024     |
+|Agent submission portal closes                     |July 1, 2024         |
+|Conference on Games                                |August 5-8, 2024     |
 
-Below are the game tutorials that introduce character abilities, game objects, and game rules.
-
-<img src = "/files/38Asset97.png">
-<img src = "/files/38Asset98.png">
-
-Detailed information on game rules, character introduction and how to play the game can be accessed in the [Master Rulebook](https://docs.google.com/document/d/1YOSnrPz8EcrrrVsWRTMAMLsKLK9t8jRiTQkXvx9TB5E/edit?usp=sharing).
 
 <!-- - Tutorial
     - different characters and their abilities
@@ -38,15 +44,6 @@ Detailed information on game rules, character introduction and how to play the g
     - pinning system
     - battling system -->
 
-
-## Submission Guidelines
-
-<!-- add submission portal -->
-The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024.
-
-
-## Training Environment
-A low fidelity version of Dice Adventure can be acccessed at [https://github.com/STRONG-TACT/Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents).
 
 ## Competition Tracks
 
