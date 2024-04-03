@@ -12,7 +12,7 @@ order: 2
 ## Submission Guidelines
 
 <!-- add submission portal -->
-The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024.
+The submission portal for STRONG Hackathon and CoG competition will be opened on 5/1/2024 and closed on 7/1/2024.
 
 
 ## Training Environment
