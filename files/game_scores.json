@@ -1,0 +1,23 @@
+[
+    {
+        "sessionID": "1",
+        "Dwarf": "human",
+        "Giant": "<agentID>",
+        "Human": "<agentID>",
+        "score": 10
+    },
+    {
+        "sessionID": "2",
+        "Dwarf": "human",
+        "Giant": "<agentID>",
+        "Human": "<agentID>",
+        "score": 20
+    },
+    {
+        "sessionID": "3",
+        "Dwarf": "human",
+        "Giant": "<agentID>",
+        "Human": "<agentID>",
+        "score": 30
+    }
+]
