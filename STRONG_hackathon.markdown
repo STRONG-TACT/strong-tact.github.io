@@ -36,7 +36,7 @@ Details will be posted soon.
 
 The schedule will be posted as the event date is coming up.
 
-<!-- |Start  |End    | Session Type      |Activity                      |Presenter      |
+|Start  |End    | Session Type      |Activity                      |Presenter      |
 |-------|-------|-------------------|------------------------------|---------------|
 |9:00   |9:30   |Opening/Intro      |Welcome & Overview            |Qiao Zhang     |
 |9:30   |10:00  |Talk               |STRONG program Overview       |David Boothe   |
@@ -47,20 +47,20 @@ The schedule will be posted as the event date is coming up.
 |1:30   |2:00   |Tutorial           |Training environment setup    |Glen Smith     |
 |2:00   |3:20   |Interactive Demos  |(open to sign up)             |               |
 |3:20   |3:40   |Break              |Coffee break and networking   |N/A            |
-|3:40   |5:00   |Flexible session   |Working on agent              |N/A            | -->
+|3:40   |5:00   |Working session    |Working on agent              |N/A            |
 
 
 ### Tentative Day 2 Schedule (6/25)
 
 The schedule will be posted as the evaent date is coming up.
 
-<!-- |Start  |End    | Session Type      |Activity                      |Presenter      |
+|Start  |End    | Session Type      |Activity                      |Presenter      |
 |-------|-------|-------------------|------------------------------|---------------|
-|9:00   |10:30  |Flexible session   |Working on agent              |N/A            |
+|9:00   |10:30  |Working  session   |Working on agent              |N/A            |
 |10:30  |12:00  |Interactive Demos  |Participants demo agents      |N/A            |
 |12:00  |1:00   |Break              |Lunch (catering)              |N/A            |
 |1:00   |3:00   |Competition        |Dice Adventure Tournament     |N/A            |
-|3:30   |5:00   |Closing            |Reflection & Discussion       |Chris MacLellan| -->
+|3:30   |5:00   |Closing            |Reflection & Discussion       |Chris MacLellan|
 
 
 ## Travel and Accommodations
