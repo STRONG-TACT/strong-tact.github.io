@@ -13,8 +13,9 @@ thumbnail: "/files/welcome.png"
  <!-- https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId -->
 
 <!-- update signup forms -->
-Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqvlSm3QoSi) to sign up for [STRONG hackathon](STRONG_hackathon.markdown) updates.\\
-Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6HzbdmDv8y) to sign up for [CoG Competition](cog_competition.markdown) updates.
+Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) to sign up for the STRONG hackathon event.
+<!-- Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqvlSm3QoSi) to sign up for [STRONG hackathon](STRONG_hackathon.markdown) updates.\\
+Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6HzbdmDv8y) to sign up for [CoG Competition](cog_competition.markdown) updates. -->
 
 * TOC
 {:toc}
