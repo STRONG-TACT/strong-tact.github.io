@@ -6,10 +6,6 @@ layout: page
 order: 5
 ---
 
-The leaderboard will be available during the hackathon event.
-
-<!-- |sessionID     |Dwarf         |Giant         |Human         |score         |
-|--------------|--------------|--------------|--------------|--------------|
-|1             |human         |<agentID>     |<agentID>     |10            |
-|2             |human         |<agentID>     |<agentID>     |20            |
-|3             |human         |<agentID>     |<agentID>     |30            | -->
+|Team ID         |Player A        |Player B        |Player C        |Total Score     |
+|----------------|----------------|----------------|----------------|----------------|
+|1               |p1              |p17             |p5              |225.32          |
