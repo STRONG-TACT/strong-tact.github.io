@@ -1,7 +1,7 @@
 ---
 title: About the Game
-nav_title: About
-permalink: /about/
+nav_title: Game
+permalink: /game/
 layout: page
 order: 1
 ---
@@ -31,4 +31,4 @@ Yes.
 4. Can I select agents to play with?
 5. Can I select levels to play?
 
-Last updated on 4/3/2024.
+Last updated on 4/26/2024.
