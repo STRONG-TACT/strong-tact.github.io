@@ -1,6 +1,6 @@
 ---
 title: STRONG hackathon
-nav_title: STRONG
+nav_title: Hackathon
 permalink: /strong_hackathon/
 layout: page
 order: 3
