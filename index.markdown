@@ -31,10 +31,10 @@ Please fill out [this form](https://gatech.co1.qualtrics.com/jfe/form/SV_4ZrjT6H
 |~~Release game tutorial~~                              |~~March 15, 2024~~       |
 |[CoG auxiliary paper](https://2024.ieee-cog.org/call-proposals/#cfp) submission deadline                |Apr 28, 2024             |
 |Release game play demo videos                      |May 1, 2024          |
-|Release Fully functional game (practise version)   |May 1, 2024          |
 |Release leaderboard design                         |May 1, 2024          |
 |Release evaluation criteria                        |May 1, 2024          |
 |Agent submission portal openes                     |May 1, 2024          |
+|Release Fully functional game                      |May 8, 2024          |
 |STRONG Hackathon                                   |June 24-25, 2024     |
 |Agent submission portal closes                     |July 1, 2024         |
 |Conference on Games                                |August 5-8, 2024     |
