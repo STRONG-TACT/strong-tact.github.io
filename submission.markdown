@@ -1,5 +1,5 @@
 ---
-title: Training Environment and Submission Guidelines
+title: Submission Guidelines for Agent Development Track
 nav_title: Submission
 permalink: /submission/
 layout: page
