@@ -3,7 +3,7 @@ title: STRONG hackathon
 nav_title: Hackathon
 permalink: /strong_hackathon/
 layout: page
-order: 3
+order: 4
 ---
 
 * TOC
@@ -26,6 +26,7 @@ order: 3
 
 <img src = "/files/TSRB_map_loc.png" width="450" height="350">
 <!-- - Add map -->
+<!-- https://www.openstreetmap.org/#map=4/38.01/-95.84 -->
 
 <!-- <iframe
   width="450"
