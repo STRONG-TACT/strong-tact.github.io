@@ -12,7 +12,7 @@ order: 2
 
 ## Getting started
 
-The video tutorial on training environment will be released soon.
+Welcome to the *Agent Development Track*! The video tutorial on training environment will be released soon.
 <!-- Embed Glen's video here. -->
 
 ## Training Environment
