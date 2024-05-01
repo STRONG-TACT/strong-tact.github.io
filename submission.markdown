@@ -12,8 +12,9 @@ order: 2
 
 ## Getting started
 
-Welcome to the *Agent Development Track*! The video tutorial on training environment will be released soon.
-<!-- Embed Glen's video here. -->
+Welcome to the *Agent Development Track*! The following tutorial video will walk you through the steps to set up agent training environment.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/v28wHsi7jyo?si=8WERkqug7L2UlC_l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Training Environment
 A low fidelity version of Dice Adventure including the agent training environment can be acccessed at [https://github.com/STRONG-TACT/Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents).
@@ -25,4 +26,4 @@ The submission portal for STRONG Hackathon and CoG competition was opened on 5/1
 
 Please reach out to us at [glensmith@gatech.edu](mailto:glensmith@gatech.edu) and [qzhang490@gatech.edu](mailto:qzhang490@gatech.edu) if you come across any technical issues.
 
-Last updated on 4/30/2024.
+Last updated on 5/1/2024.
