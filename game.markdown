@@ -12,9 +12,9 @@ order: 1
 > 📢 News! <br>
 > Dice Adventure will be officially released on May 8, 2024.
 
-<!-- <iframe src="https://drive.google.com/file/d/10ozpBUBhcdI-zaL6yqB92kNxnTbNI7kI/view"></iframe> -->
+<!-- <video src="/files/DiceAdventureGameplayTrailer.mp4" width="560" height="360" controls></video> -->
 
-<video src="/files/DiceAdventureGameplayTrailer.mp4" width="560" height="360" controls></video>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6k8dZPUFVzE?si=4v-Vfjz5lDey8gIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Music Credits: Water Game Theme Loop.wav by Mrthenoronha -- https://freesound.org/s/370293/* <br>
 *License: Attribution NonCommercial 4.0*
