@@ -16,6 +16,10 @@ order: 1
 
 <video src="/files/DiceAdventureGameplayTrailer.mp4" width="560" height="360" controls></video>
 
+*Music Credits: Water Game Theme Loop.wav by Mrthenoronha -- https://freesound.org/s/370293/* <br>
+*License: Attribution NonCommercial 4.0*
+
+
 ## Game Tutorial
 A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
 
