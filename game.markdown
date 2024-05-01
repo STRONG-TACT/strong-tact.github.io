@@ -9,6 +9,11 @@ order: 1
 * TOC
 {:toc}
 
+> 📢 News! <br>
+> Dice Adventure will be officially released on May 8, 2024.
+
+<video src="/files/DiceAdventureGameplayTrailer.mp4" width="560" height="360" controls></video>
+
 ## Game Tutorial
 A local version of [Dice Adventure](https://github.com/STRONG-TACT/HMT-Game-1) can be downloaded at (https://github.com/STRONG-TACT/HMT-Game-1).
 
@@ -31,4 +36,4 @@ Yes.
 4. Can I select agents to play with?
 5. Can I select levels to play?
 
-Last updated on 4/26/2024.
+Last updated on 4/30/2024.
