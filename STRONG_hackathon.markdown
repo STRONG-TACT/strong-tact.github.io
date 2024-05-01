@@ -11,16 +11,32 @@ order: 3
 
 ## Important Event Information
 
+### Registration
+
+ - Please fill out this [signup form](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) if you are interested in this in-person event.
+ - The registration deadline is **June 10, 2024**.
+ - There is no registration fee.
+
 ### Event Location
 
 - The hackathon will be hosted at Georgia Institute of Technology in Atlanta, GA.
-- Information on the venue, parking information, and suggested hotel will be posted soon.
+- The venue location is: [Tech Square Research Building](https://maps.app.goo.gl/BDjk8AhBrSpQrzgq6) 1st floor ballroom
+- The Google map address is *85 5th St NW, Atlanta, GA 30332*
+- Building access information will be posted soon.
+
+<img src = "/files/TSRB_map_loc.png" width="450" height="350">
 <!-- - Add map -->
 
-### Registration Details
+<!-- <iframe
+  width="450"
+  height="250"
+  frameborder="0" style="border:0"
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA68M9et08RdFoYExACX7IL4khP2H0AYzU
+  &q=Technology+Square+Research+Building, Atlanta, GA+30332"
+  allowfullscreen>
+</iframe> -->
 
- - Please fill out [this interest form](https://gatech.co1.qualtrics.com/jfe/form/SV_9RorHqvlSm3QoSi) to sign up for updates.
- - Registration link will be released soon.
 
 ### At the Event
 
@@ -107,6 +123,6 @@ Information will be posted soon.
 - [Ponce City Market](https://poncecitymarket.com/) (1.8 miles)
 
 
-Last updated on 4/3/2024.
+Last updated on 4/30/2024.
 
 
