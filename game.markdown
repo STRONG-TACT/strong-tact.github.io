@@ -12,6 +12,8 @@ order: 1
 > 📢 News! <br>
 > Dice Adventure will be officially released on May 8, 2024.
 
+<!-- <iframe src="https://drive.google.com/file/d/10ozpBUBhcdI-zaL6yqB92kNxnTbNI7kI/view"></iframe> -->
+
 <video src="/files/DiceAdventureGameplayTrailer.mp4" width="560" height="360" controls></video>
 
 ## Game Tutorial
