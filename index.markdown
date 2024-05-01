@@ -16,9 +16,11 @@ thumbnail: "/files/welcome.png"
 * TOC
 {:toc}
 
-Welcome to the first Dice Adventure Humna-AI Teaming Competition! We are selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/). In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects.
+Welcome to the first Dice Adventure Humna-AI Teaming Competition! We are selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/). In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
 
-We offer two tracks and welcome participantas at all levels. If you are interested in developing an agent, please check out the guidelines in [Submission](submission.markdown) for *agent development track*. If you do not wish to submit an agent but are still interested in this competition, please check out the details in [Player](player.markdown) for signing up as a player in the *player track*.
+We offer two tracks and welcome participantas at all levels. If you are interested in developing an agent, please check out the guidelines in [Submission](submission.markdown) page for *agent development track*. The starter code and training environment can be accessed at the [Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents) repo on GitHub. If you do not wish to submit an agent but are still interested in this competition, please check out the details in [Player](player.markdown) page for signing up as a player in the *player track*. We will be hosting a few virtual and in-person match-making events to bring players together.
+
+As part of the match-making events, we will be hosting an in-person hackathon event at Georgia Institute of Technology in Atlanta, GA in the United States. The hackathon is a free event that welcomes students, researchers, developers and anyone interested in our game and competition to get together. We will be organizing a series of tutorial sessions, interactive demos, working sessions and game tournaments during the two-day event. Registration information, event schedule and accommodation suggestions can be found at the [Hackathon](STRONG_hackathon.markdown) page.
 
 The following video provides an overview to the competition tracks, rules, short game tutorial and information on setting up the training environment. We hope to bring exciting experiences to the participants and exploring critical human-AI teaming questions to gain a better understanding in team communication, coordination, and adaptation.
 
@@ -27,9 +29,10 @@ The following video provides an overview to the competition tracks, rules, short
 - scoring function -->
 
 
-[![Watch the video](/files/timeline.png)](https://www.youtube.com/watch?v=cvV_hTAYgy4)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cvV_hTAYgy4?si=qu2tJ5bUwP8vhw-x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
- <!-- https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId -->
+<!-- [![Watch the video](/files/timeline.png)](https://www.youtube.com/watch?v=cvV_hTAYgy4) -->
+<!-- https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId -->
 
 
 ## Key Dates
