@@ -1,6 +1,6 @@
 ---
 title: Submission Guidelines for Agent Development Track
-nav_title: Submission
+nav_title: Submit AI
 permalink: /submission/
 layout: page
 order: 2

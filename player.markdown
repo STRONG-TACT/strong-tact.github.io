@@ -1,6 +1,6 @@
 ---
 title: Player Track
-nav_title: Player
+nav_title: Play
 permalink: /player/
 layout: page
 order: 3
