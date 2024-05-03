@@ -14,6 +14,7 @@ order: 4
 ### Registration
 
  - Please fill out this [signup form](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) if you are interested in this in-person event.
+ - Please specify what you need and how we can help if you are going to demo your research at the interactive sessions.
  - The registration deadline is **June 10, 2024**.
  - There is no registration fee.
 
@@ -25,27 +26,16 @@ order: 4
 - Building access information will be posted soon.
 
 <img src = "/files/TSRB_map_loc.png" width="450" height="350">
-<!-- - Add map -->
-<!-- https://www.openstreetmap.org/#map=4/38.01/-95.84 -->
-
-<!-- <iframe
-  width="450"
-  height="250"
-  frameborder="0" style="border:0"
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA68M9et08RdFoYExACX7IL4khP2H0AYzU
-  &q=Technology+Square+Research+Building, Atlanta, GA+30332"
-  allowfullscreen>
-</iframe> -->
-
 
 ### At the Event
 
 Details will be posted soon.
 
-<!-- - part of the CoG
-- all submissions will be counted as the CoG competition submission
-- will not be evaluated separated -->
+<!-- Breakfast refreshment, lunch catering, dinner reception -->
+<!-- Interactive demo session -->
+<!-- working sessions -->
+<!-- part of CoG, compete for the cash prize -->
+
 
 ## Organization and Schedule
 
@@ -65,6 +55,7 @@ The schedule will be posted as the event date is coming up.
 |2:00   |3:20   |Interactive Demos  |(open to sign up)             |               |
 |3:20   |3:40   |Break              |Coffee break and networking   |N/A            |
 |3:40   |5:00   |Working session    |Working on agent              |N/A            |
+|6:30   |8:00   |Dinner             |Dinner reception (optional)   |N/A            |
 
 
 ### Tentative Day 2 Schedule (6/25)
@@ -86,18 +77,18 @@ The schedule will be posted as the evaent date is coming up.
 
 #### By Air
 
-[Hartsfield-Jackson Atlanta International Airport]() is 20-30 minutes drive from the Geogia Tech campus and the event venue.
-<!-- MARTA -->
+[Hartsfield-Jackson Atlanta International Airport]() is 20-30 minutes drive from the Geogia Tech campus and the event venue. You can also take the MARTA Red or Yellow line, ride 11 stops from the Airport and get off at [*Midtown*](https://maps.app.goo.gl/ZV1TzfoteNTYhn6C7) station. The *Midtown* station is 10 minutes walk from the event venue. It takes around 35 minutes to treavel by MARTA from the airport to the event venue. The flat fare for MARTA is $2.5 USD.
+<!-- add google map travel route -->
 
 #### By Train
 
-Information will be posted soon.
+The [Atlanta Peachtree Station](https://maps.app.goo.gl/MZ14XUjktgmNCa1c7) is serviced by Amtrak. The train station is 10 minutes durve from the event venue.
 
-#### By Car
+<!-- #### By Car
 
 Address for GPS users:\\
-Technology Square Research Building\\
-85 5th St NW, Atlanta, GA 30332
+[Technology Square Research Building](https://maps.app.goo.gl/JamSJYYJzgczY6676) \\
+85 5th St NW, Atlanta, GA 30332 -->
 
 
 ### Accommodations
@@ -111,13 +102,21 @@ There are a few hotels within walking distance of the Georgia Tech campus and ev
 
 ### Dining
 
-Information will be posted soon.
+Below are a few restaurants that are within 5-10 minutes walk from the event venue.
+- [Tin Drum Asian Kitchen & Boba Tea Bar - Georgia Tech](https://maps.app.goo.gl/jjZmjZMJ1ErvV8Ys5): 88 5th St NW, Atlanta, GA 30308
+- [Momonoki](https://maps.app.goo.gl/XdsHzixKxGnFyGXL7): 95 8th St NW #100, Atlanta, GA 30309
+- [Atwoods](https://maps.app.goo.gl/mBDJ682ysFBSYbsv7): 817 W Peachtree St NW, Atlanta, GA 30308
+- [Cypress Street Pint & Plate](https://maps.app.goo.gl/2tB4xv6ZpTeML9L57): 817 W Peachtree St NW, Atlanta, GA 30308
+- [Anh's Kitchen](https://maps.app.goo.gl/KWkVUmroLLVPKCQo7): Viewpoint, 855 Peachtree St NE STE 2, Atlanta, GA 30308
+
 
 ### Transportation
 
-Information will be posted soon.
+There are four [railway lines](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:8bde9c03-38e8-3fb7-874c-cdd5039f8bd9) and multiple [bus routes](https://www.itsmarta.com/bus-routes.aspx/marta-rac.aspx) supported by [MARTA](https://www.itsmarta.com/Default.aspx) that can cover most places in Metro Atlanta. The City also offers dockless e-bikes and e-scooters provided by Lime and Bird.
 
 ### Things to Do
+
+There are a few tourist attractions that are around 10 minutes drive from the event venue.
 
 - [Georgia Aquarium](https://www.georgiaaquarium.org/) (1.3 miles)
 - [World of Coca-Cola](https://www.worldofcoca-cola.com/) (1.1 miles)
@@ -125,6 +124,6 @@ Information will be posted soon.
 - [Ponce City Market](https://poncecitymarket.com/) (1.8 miles)
 
 
-Last updated on 4/30/2024.
+Last updated on 5/3/2024.
 
 
