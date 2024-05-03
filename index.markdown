@@ -62,6 +62,9 @@ The following video provides an overview to the competition tracks, rules, short
 |Conference on Games                                |August 5-8, 2024     |
 
 
+## Evaluation Criteria
+The scoring function will be posted soon.
+
 ## Prizes
 
 Our competition is sponsored by the IEEE Computational Intelligence Society Education Competition Fund with a total cash prize of **$1,000 USD**, which will be awarded to participating teams ranking at the top three places on the [leaderboard](leaderboard.markdown). The prize will be equally distributed among team members --- human players and agent developers of agents. Below is the distribution of prizes:
