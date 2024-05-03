@@ -13,11 +13,16 @@ thumbnail: "/files/welcome.png"
 > 📢 News! <br>
 > May 1 --- The agent submission portal is open! See [Submission](submission.markdown) for details.
 
-<!-- add bubbles submit agent, play online, play in person -->
-<!-- see human like learning repo as example -->
+|[Submit an Agent](/submission/) 🤖       |[Play Online](/play/) 🌐         |[Play In Person](/hackathon/) 🎲       |
+|----------------------|---------------------|----------------------|
+|Design, develop and train AI agents that can play the game.                |Play the game online at multiple virtual match-making event.                 |Sign up for the in-person hackathon and play the game in person.                  |
+
+
 
 * TOC
 {:toc}
+
+
 
 Welcome to the first Dice Adventure Humna-AI Teaming Competition! We are selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/). In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
 
