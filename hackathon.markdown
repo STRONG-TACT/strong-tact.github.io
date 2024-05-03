@@ -1,7 +1,7 @@
 ---
 title: STRONG hackathon
 nav_title: Hackathon
-permalink: /strong_hackathon/
+permalink: /hackathon/
 layout: page
 order: 4
 ---
@@ -86,7 +86,8 @@ The schedule will be posted as the evaent date is coming up.
 
 #### By Air
 
-Hartsfield-Jackson Atlanta International Airport is 20-30 minutes drive from the Geogia Tech campus and the event venue.
+[Hartsfield-Jackson Atlanta International Airport]() is 20-30 minutes drive from the Geogia Tech campus and the event venue.
+<!-- MARTA -->
 
 #### By Train
 

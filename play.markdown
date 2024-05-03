@@ -1,7 +1,7 @@
 ---
 title: Player Track
 nav_title: Play
-permalink: /player/
+permalink: /play/
 layout: page
 order: 3
 ---
