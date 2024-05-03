@@ -82,7 +82,7 @@ The schedule will be posted as the evaent date is coming up.
 
 #### By Train
 
-The [Atlanta Peachtree Station](https://maps.app.goo.gl/MZ14XUjktgmNCa1c7) is serviced by Amtrak. The train station is 10 minutes durve from the event venue.
+The [Atlanta Peachtree Station](https://maps.app.goo.gl/MZ14XUjktgmNCa1c7) is serviced by Amtrak. The train station is 10 minutes drive from the event venue.
 
 <!-- #### By Car
 
