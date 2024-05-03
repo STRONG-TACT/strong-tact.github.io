@@ -63,7 +63,11 @@ The following video provides an overview to the competition tracks, rules, short
 
 
 ## Evaluation Criteria
+
 The scoring function will be posted soon.
+<!-- agent submissions will not be evaluated separated -->
+<!-- will not ran against benchmarks -->
+
 
 ## Prizes
 
