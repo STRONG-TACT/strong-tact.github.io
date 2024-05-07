@@ -77,7 +77,7 @@ The schedule will be posted as the evaent date is coming up.
 
 #### By Air
 
-[Hartsfield-Jackson Atlanta International Airport]() is 20-30 minutes drive from the Geogia Tech campus and the event venue. You can also take the MARTA Red or Yellow line, ride 11 stops from the Airport and get off at [*Midtown*](https://maps.app.goo.gl/ZV1TzfoteNTYhn6C7) station. The *Midtown* station is 10 minutes walk from the event venue. It takes around 35 minutes to treavel by MARTA from the airport to the event venue. The flat fare for MARTA is $2.5 USD.
+[Hartsfield-Jackson Atlanta International Airport]() is 20-30 minutes drive from the Geogia Tech campus and the event venue. You can also take the MARTA Red or Yellow line, ride 11 stops from the Airport and get off at [*Midtown*](https://maps.app.goo.gl/ZV1TzfoteNTYhn6C7) station. The *Midtown* station is 10 minutes walk from the event venue. It takes around 35 minutes to travel by MARTA from the airport to the event venue. The flat fare for MARTA is $2.5 USD.
 <!-- add google map travel route -->
 
 #### By Train
