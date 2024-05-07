@@ -124,6 +124,6 @@ There are a few tourist attractions that are around 10 minutes drive from the ev
 - [Ponce City Market](https://poncecitymarket.com/) (1.8 miles)
 
 
-Last updated on 5/3/2024.
+Last updated on May 3, 2024.
 
 

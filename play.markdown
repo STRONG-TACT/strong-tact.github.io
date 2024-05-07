@@ -28,4 +28,4 @@ We will be organizing a series of in-person and virtual match-making events. The
 - **In-person**: there will be a game competition at the in-person hackathon. Please see the [hackathon](/hackathon/) page for detailed schedule. 
 - **Online**: we will be organizing a few virtual match-making events outside of the in-person hackathon event. Detailed information and schedule will be posted soon.
 
-Last updated on 5/3/2024.
+Last updated on May 3, 2024.

@@ -26,4 +26,4 @@ The submission portal for STRONG Hackathon and CoG competition was opened on 5/1
 
 Please reach out to us at [glensmith@gatech.edu](mailto:glensmith@gatech.edu) and [qzhang490@gatech.edu](mailto:qzhang490@gatech.edu) if you come across any technical issues.
 
-Last updated on 5/1/2024.
+Last updated on May 1, 2024.
