@@ -64,11 +64,8 @@ The following video provides an overview to the competition tracks, rules, short
 
 ## Evaluation Criteria
 
-<!-- The scoring function will be posted soon. -->
-<!-- agent submissions will not be evaluated separated -->
-<!-- will not ran against benchmarks -->
+As the goal of the competition is to better understand human-AI teaming dynamics, the submitted agents will not be evaluated by running against benchmarks or through bot fight. All the agents will be selected at least once and play with players in the player track as a team. Below are the scoring function showing how a team score is calculated. The score consists of a base score with a decaying factor and bonuses for each character. For each level, each character gets a bonous of 10 and they lose the bonus proportional to losing the health. If a character lose all the health in a level, it will not be eligible for the bonus.
 
-<!-- `\sqrt{3x-1}+(1+x)^2` -->
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;S_i = 100 \times d^{r_i} + \sum_{j=1}^{3} \frac{h_{ij}}{h\_max_{ij}} \times rs_{ij} \times 10" title="\Large S_i = 100 \times d^{r_i} + \sum_{j=1}^{3} \frac{h_{ij}}{h\_max_{ij}} \times rs_{ij} \times 10"/>
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;team\_score = \sum_{i=1}^{n}S_i" title="\Large team\_score = \sum_{i=1}^{n}S_i"/>
@@ -108,6 +105,6 @@ Glen Smith, [glensmith@gatech.edu](glensmith@gatech.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
 
-Last updated on 5/7/2024.
+Last updated on May 7, 2024.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
