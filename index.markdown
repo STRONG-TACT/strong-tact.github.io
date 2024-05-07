@@ -54,9 +54,9 @@ The following video provides an overview to the competition tracks, rules, short
 |~~[CoG auxiliary paper](https://2024.ieee-cog.org/call-proposals/#cfp) submission deadline~~                |~~Apr 28, 2024~~             |
 |~~Release game play demo videos~~                      |~~May 1, 2024~~          |
 |~~Release leaderboard design~~                         |~~May 1, 2024~~         |
-|Release evaluation criteria                        |May 1, 2024          |
-|~~Agent submission portal openes~~                     |~~May 1, 2024~~          |
+|~~Release evaluation criteria~~                        |~~May 1, 2024~~          |
 |Release Fully functional game                      |May 8, 2024          |
+|Hackathon signup ends                              |June 10, 2024        |
 |STRONG Hackathon                                   |June 24-25, 2024     |
 |Agent submission portal closes                     |July 1, 2024         |
 |Conference on Games                                |August 5-8, 2024     |
@@ -64,9 +64,23 @@ The following video provides an overview to the competition tracks, rules, short
 
 ## Evaluation Criteria
 
-The scoring function will be posted soon.
+<!-- The scoring function will be posted soon. -->
 <!-- agent submissions will not be evaluated separated -->
 <!-- will not ran against benchmarks -->
+
+<!-- `\sqrt{3x-1}+(1+x)^2` -->
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;S_i = 100 \times d^{r_i} + \sum_{j=1}^{3} \frac{h_{ij}}{h\_max_{ij}} \times rs_{ij} \times 10" title="\Large S_i = 100 \times d^{r_i} + \sum_{j=1}^{3} \frac{h_{ij}}{h\_max_{ij}} \times rs_{ij} \times 10"/>
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;team\_score = \sum_{i=1}^{n}S_i" title="\Large team\_score = \sum_{i=1}^{n}S_i"/>
+
+- d: decaying factor, we are using d=0.95 for competitions
+- i: the current level the team is at
+- j=(1, 2, 3) representing each of the three characters
+- r: the number of rounds the team took to clear a level
+- rs: if a character lose all lives (rs=0) in a level 
+- h: the health a character remains
+- h_max: the maximum health a character has
+- n: the total number of levels the team has cleard
 
 
 ## Prizes
@@ -93,5 +107,7 @@ Qiao Zhang, [qzhang490@gatech.edu](qzhang490@gatech.edu) \\
 Glen Smith, [glensmith@gatech.edu](glensmith@gatech.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
+
+Last updated on 5/7/2024.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
