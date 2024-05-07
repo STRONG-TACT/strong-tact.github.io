@@ -1,10 +1,11 @@
 import json
 import requests
 import markdown as md
+import datetime
 
 #TODO
 # if getting JSON data from an API endpoint
-# response = requests.get('')
+# response = requests.get('url')
 # game_score = json.loads()
 
 def convert(game_scores):
@@ -30,6 +31,10 @@ order: 5
 ---
 
 """
+
+now = datetime.datetime.now()
+timestamp = 'Last updated on {:%b %d, %Y %H:%M:%S}'.format(now)
+
 if __name__ == "__main__":
     with open('files/game_scores.json', 'r') as f:
         game_scores = json.load(f)
@@ -37,6 +42,8 @@ if __name__ == "__main__":
     # print(game_score_md)
 
     with open('leaderboard.markdown', 'w') as f:        
-        f.write(the_same_part)       
+        f.write(the_same_part)
         for row in game_score_md:
             f.write(row + '\n')
+        f.write('\n')
+        f.write(timestamp)
