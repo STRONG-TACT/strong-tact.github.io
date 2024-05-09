@@ -11,7 +11,10 @@ thumbnail: "/files/welcome.png"
 
 
 > 📢 News! <br>
-> May 1 --- The agent submission portal is open! See [Submission](submission.markdown) for details.
+> May 9 --- Please join the [Slack](https://join.slack.com/t/dice-adventure/shared_invite/zt-2ia9cgtkn-VAKxgzLBYlS9tzKWmE8ePA) channel for most up-to-date information. \\
+> May 8 --- Dice Adventure is online! See [Game](/game) for more details. \\
+> ~~May 1 --- The agent submission portal is open! See [Submission](submission.markdown) for details.~~
+
 
 |[Submit an Agent](/submission/) 🤖       |[Play Online](/play/) 🌐         |[Play In Person](/hackathon/) 🎲       |
 |----------------------|---------------------|----------------------|
@@ -24,7 +27,7 @@ thumbnail: "/files/welcome.png"
 
 
 
-Welcome to the first Dice Adventure Humna-AI Teaming Competition! We are selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/). In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
+Welcome to the first Dice Adventure Human-AI Teaming Competition! We are selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/). In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
 
 We offer two tracks and welcome participantas at all levels. To participate, you must sign up for one or both track(s). If you are interested in developing an agent, please check out the guidelines in [Submit AI](submission.markdown) page for *agent development track*. The starter code and training environment can be accessed at the [Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents) repo on GitHub. If you do not wish to submit an agent but are still interested in this competition, please check out the details in [Play](player.markdown) page for signing up as a player in the *player track*. We will be hosting a few virtual and in-person match-making events to bring players together.
 
