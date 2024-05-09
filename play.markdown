@@ -10,7 +10,7 @@ order: 3
 {:toc}
 
 > 📢 News!
-> Competition sign up link will be released soon!
+> Competition sign up link and match-making schedule will be released soon!
 
 ## How to Play
 Dice Adventure will be available on itch.io by May 8, 2024. We will also release a local build of the game for players to explore and for developers to test their agents. You can jump on the game and play at any time from **May 8, 2024** to **July 1, 2024**. The game supports two play modes --- the *exhibition* mode and the *tournament* mode. In the *exhibition* mode, you can select from a list of currently available agents you want to play with and assign rolse to the agent. The *tournament* mode will only be available at match-making event.

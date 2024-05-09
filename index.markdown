@@ -91,9 +91,6 @@ Our competition is sponsored by the IEEE Computational Intelligence Society Educ
 🥈 2nd place - $300 USD<br>
 🥉 3rd place - $200 USD<br>
 
-<!-- ## Evaluation Criteria
-Submissions to the agent track will not be evaluated separately on their performance in the game. All agents wil be evaluated based on the teamming performance. Detailed information on winner declaration will be posted soon. -->
-
 ## Form and Links
 
 Hackathon signup form: [https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) \\
