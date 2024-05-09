@@ -10,7 +10,8 @@ order: 1
 {:toc}
 
 > 📢 News! <br>
-> Dice Adventure will be officially released on May 8, 2024.
+> Dice Adventure is online at [https://cmu-tact.itch.io/dice-adventure](https://cmu-tact.itch.io/dice-adventure)!
+<!-- > Dice Adventure will be officially released on May 8, 2024. -->
 
 <!-- <video src="/files/DiceAdventureGameplayTrailer.mp4" width="560" height="360" controls></video> -->
 
