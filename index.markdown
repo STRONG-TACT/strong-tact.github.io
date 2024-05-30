@@ -108,6 +108,6 @@ Glen Smith, [glensmith@gatech.edu](glensmith@gatech.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
 
-Last updated on May 7, 2024.
+Last updated on May 30, 2024.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
