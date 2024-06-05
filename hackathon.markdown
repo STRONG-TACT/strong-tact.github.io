@@ -15,7 +15,7 @@ order: 4
 
  - Please fill out this [signup form](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) if you are interested in this in-person event.
  - Please specify what you need and how we can help if you are going to demo your research at the interactive sessions.
- - The registration deadline is **June 10, 2024**.
+ - The registration deadline is **June 24, 2024**.
  - There is no registration fee.
 
 ### Event Location
@@ -124,6 +124,6 @@ There are a few tourist attractions that are around 10 minutes drive from the ev
 - [Ponce City Market](https://poncecitymarket.com/) (1.8 miles)
 
 
-Last updated on May 3, 2024.
+Last updated on June 5, 2024.
 
 
