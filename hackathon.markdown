@@ -1,5 +1,5 @@
 ---
-title: STRONG hackathon
+title: Dice Adventure Hackathon
 nav_title: Hackathon
 permalink: /hackathon/
 layout: page

@@ -63,7 +63,7 @@ The following video provides an overview to the competition tracks, rules, short
 |Release game with AI interface                     |June 15, 2024 (tentative)|
 |Online participation starts                        |June 15, 2024 (tentative)|
 |Online participation ends                          |July 15, 2024        |
-|STRONG Hackathon                                   |June 24-25, 2024     |
+|Dice Adventure Hackathon                           |June 24-25, 2024     |
 |Agent submission portal closes                     |July 1, 2024         |
 |Conference on Games                                |August 5-8, 2024     |
 
