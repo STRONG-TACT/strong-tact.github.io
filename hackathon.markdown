@@ -1,5 +1,5 @@
 ---
-title: STRONG hackathon
+title: Dice Adventure Hackathon
 nav_title: Hackathon
 permalink: /hackathon/
 layout: page
@@ -11,12 +11,12 @@ order: 4
 
 ## Important Event Information
 
-### Registration
+### RSVP Sign Up
 
- - Please fill out this [signup form](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) if you are interested in this in-person event.
+ - Please fill out this [RSVP signup form](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) if you are interested in this in-person event.
  - Please specify what you need and how we can help if you are going to demo your research at the interactive sessions.
- - The registration deadline is **June 24, 2024**.
- - There is no registration fee.
+ - The RSVP deadline is **June 24, 2024**.
+ - There is no fee to participate.
 
 ### Event Location
 
