@@ -59,8 +59,8 @@ The following video provides an overview to the competition tracks, rules, short
 |~~Release leaderboard design~~                         |~~May 1, 2024~~         |
 |~~Release evaluation criteria~~                        |~~May 1, 2024~~          |
 |~~Release Fully functional game~~                      |~~May 8, 2024~~          |
-|Release game with AI interface                     |June 15, 2024 (tentative)|
-|Online participation starts                        |June 15, 2024 (tentative)|
+|~~Release game with AI interface~~                     |~~June 15, 2024 (tentative)~~|
+|~~Online participation starts~~                        |~~June 15, 2024 (tentative)~~|
 |Hackathon signup ends                              |June 24, 2024        |
 |Dice Adventure Hackathon                           |June 24-25, 2024     |
 |Online participation ends                          |July 15, 2024        |
@@ -105,9 +105,12 @@ Agent file submission link: [https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxI
 ## Organizers
 Qiao Zhang, [qzhang490@gatech.edu](qzhang490@gatech.edu) \\
 Glen Smith, [glensmith@gatech.edu](glensmith@gatech.edu) \\
+Varun Girdhar, [vgirdhar@andrew.cmu.edu](vgirdhar@andrew.cmu.edu) \\
+Yuxuan Dong, [yuxuando@andrew.cmu.edu](yuxuando@andrew.cmu.edu) \\
+Ziyu Li, [ziyul@andrew.cmu.edu](ziyul@andrew.cmu.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
 
-Last updated on June 9, 2024.
+Last updated on June 23, 2024.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
