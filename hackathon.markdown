@@ -71,9 +71,9 @@ Activities for the player track and the agent development track will run in para
 |Start  |End    | location | Session Type  |Activity                      |Presenter      |
 |-------|-------|----------|---------------|------------------------------|---------------|
 |3:00   |3:30   |TSRB First Floor Event Space|Break          |Coffee break and networking   |N/A            |
-|3:30   |4:00   |TSRB 132  |Firehose       |Brief demo presentation       |Jieyu Zhou Leon Lange Luis Jimenez            |
-|4:00   |5:00   |TSRB 132  |Interactive Demos|VAL, Space Transit              |Jieyu Zhou Leon Lange Luis Jimenez            |
-|6:30   |8:00   |[Cypress](https://maps.app.goo.gl/mhMYDn9pxKgUXvx86) |Dinner         |Dinner reception (optional)   |N/A            |
+|3:30   |4:00   |TSRB 132  |Firehose       |Brief demo presentation       |Jieyu Zhou<br> Leon Lange<br> Luis Jimenez|
+|4:00   |5:00   |TSRB 132  |Interactive Demos|VAL<br> Space Transit              |Jieyu Zhou<br> Leon Lange<br> Luis Jimenez|
+|6:30   |8:00   |[Cypress](https://maps.app.goo.gl/mhMYDn9pxKgUXvx86) |Dinner         |Dinner reception  |N/A            |
 
 Dinner is optional. We will walk together as a group and leave for dinner from TSRB at around 6pm.
 
