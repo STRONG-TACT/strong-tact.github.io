@@ -9,7 +9,7 @@ order: 5
 |Rank            |Team ID         |Player A        |Player B        |Player C        |Total Score     |
 |----------------|----------------|----------------|----------------|----------------|----------------|
 |1               |27              |7325697774766014|conditional_agent_default-471|conditional_agent_default-908|4475.63         |
-|2               |39              |4834610906429589|conditional_agent_default-600|conditional_agent_default-796|2916.83         |
+|2               |39              |4834610906429589|conditional_agent_default-600|conditional_agent_default-796|3011.83         |
 |3               |36              |2524856287287548|conditional_agent_default-56|conditional_agent_default-670|2801.42         |
 |4               |32              |7325697774766014|conditional_agent_default-790|conditional_agent_default-980|2153.96         |
 |5               |10              |4834610906429589|conditional_agent_default-142|conditional_agent_default-525|1979.0          |
@@ -19,4 +19,4 @@ order: 5
 |9               |6               |7325697774766014|conditional_agent_default-493|conditional_agent_default-763|1850.67         |
 |10              |16              |conditional_agent_default-374|conditional_agent_default-791|eabae978-2dd5-4c2f-bba9-47bed39b0cd4|1777.28         |
 
-Last updated on Jun 24, 2024 16:32:10
+Last updated on Jun 24, 2024 16:36:13
