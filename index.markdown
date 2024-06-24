@@ -11,8 +11,10 @@ thumbnail: "/files/welcome.png"
 
 
 > 📢 News! <br>
+> June 23 --- [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
+) to play Dice Adventure and compete for the prizes! \\
 > May 9 --- Please join the [Slack](https://join.slack.com/t/dice-adventure/shared_invite/zt-2ia9cgtkn-VAKxgzLBYlS9tzKWmE8ePA) channel for most up-to-date information. \\
-> May 8 --- Dice Adventure is online! See [Game](/game) for more details. \\
+> ~~May 8 --- Dice Adventure is online! See [Game](/game) for more details.~~ \\
 > ~~May 1 --- The agent submission portal is open! See [Submission](submission.markdown) for details.~~
 
 
@@ -97,7 +99,9 @@ Our competition is sponsored by the IEEE Computational Intelligence Society Educ
 ## Form and Links
 
 Hackathon signup form: [https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6) \\
-Player track signup form: will be posted soon \\
+Player track signup form: [https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
+](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
+)\\
 Agent submission form: [https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6](https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6) \\
 Agent file submission link: [https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId)
 
@@ -111,6 +115,6 @@ Ziyu Li, [ziyul@andrew.cmu.edu](ziyul@andrew.cmu.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
 
-Last updated on June 23, 2024.
+Last updated on June 24, 2024.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
