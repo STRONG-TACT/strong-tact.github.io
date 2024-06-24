@@ -11,7 +11,7 @@ order: 5
 |1               |27              |7325697774766014|conditional_agent_default-471|conditional_agent_default-908|4475.63         |
 |2               |36              |2524856287287548|conditional_agent_default-56|conditional_agent_default-670|2801.42         |
 |3               |32              |7325697774766014|conditional_agent_default-790|conditional_agent_default-980|2153.96         |
-|4               |39              |4834610906429589|conditional_agent_default-600|conditional_agent_default-796|1993.7          |
+|4               |39              |4834610906429589|conditional_agent_default-600|conditional_agent_default-796|2041.44         |
 |5               |10              |4834610906429589|conditional_agent_default-142|conditional_agent_default-525|1979.0          |
 |6               |33              |4834610906429589|conditional_agent_default-844|conditional_agent_default-918|1917.08         |
 |7               |29              |2524856287287548|conditional_agent_default-26|conditional_agent_default-292|1913.4          |
@@ -19,4 +19,4 @@ order: 5
 |9               |6               |7325697774766014|conditional_agent_default-493|conditional_agent_default-763|1850.67         |
 |10              |16              |conditional_agent_default-374|conditional_agent_default-791|eabae978-2dd5-4c2f-bba9-47bed39b0cd4|1777.28         |
 
-Last updated on Jun 24, 2024 16:09:35
+Last updated on Jun 24, 2024 16:09:48
