@@ -14,9 +14,9 @@ order: 5
 |4               |4               |7469106d-63eb-4a9a-86c5-d8fd3530a527|conditional_agent_default-735|conditional_agent_default-801|1475.12         |
 |5               |15              |7715f278-c452-4c9f-8056-4ff67a6bff9d|conditional_agent_default-705|conditional_agent_default-902|1049.32         |
 |6               |18              |56254893-7d70-4ab2-9e45-9c657e9ac235|conditional_agent_default-727|conditional_agent_default-827|792.77          |
-|7               |5               |633877d5-3ef1-4c90-b624-70d87af5eb14|conditional_agent_default-210|conditional_agent_default-553|598.33          |
-|8               |14              |a685057d-0bb2-4302-92fc-6f1580c9329d|conditional_agent_default-582|conditional_agent_default-974|551.24          |
-|9               |19              |conditional_agent_default-735|conditional_agent_default-764|eae766c4-ac27-4abf-a0ca-262ab34ab0e0|551.24          |
+|7               |19              |conditional_agent_default-735|conditional_agent_default-764|eae766c4-ac27-4abf-a0ca-262ab34ab0e0|636.97          |
+|8               |5               |633877d5-3ef1-4c90-b624-70d87af5eb14|conditional_agent_default-210|conditional_agent_default-553|598.33          |
+|9               |14              |a685057d-0bb2-4302-92fc-6f1580c9329d|conditional_agent_default-582|conditional_agent_default-974|551.24          |
 |10              |7               |22c14f6d-9570-4f18-9687-9b7401fce0e6|conditional_agent_default-18|conditional_agent_default-915|537.69          |
 
-Last updated on Jun 24, 2024 12:05:51
+Last updated on Jun 24, 2024 12:06:06
