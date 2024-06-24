@@ -41,56 +41,56 @@ Details will be posted soon.
 
 ### Day 1 Schedule (6/24)
 
-|Start  |End    | location | Session Type  |Activity                      |Presenter      |
-|-------|-------|----------|---------------|------------------------------|---------------|
-|8:30   |9:00   |TSRB first floor event space|Check in|Sign in, pick up badge and schedule|Qiao Zhang     |
-|9:00   |9:20   |TSRB 132  |Opening/Intro  |Welcome & Overview            |Chris MacLellan|
-|9:20   |9:30   |TSRB 132  |Opening/Intro  |Schedule Overview             |Qiao Zhang     |
-|9:30   |10:00  |TSRB 132  |Talk           |STRONG Program Overview       |David Boothe   |
-|10:00  |10:30  |TSRB 132  |Talk/Demo      |Overview of Dice Adventure - Design and Rules|Erik Harpstead |
-|10:30  |11:00  |TSRB 132  |Talk           |Dice Adventure Competition Overview|Qiao Zhang |
-|11:00  |12:00  |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
-|12:00  |1:00   |TSRB first floor event space|Break          |Lunch (catering)              |N/A            |
+|Start   |End     | location | Session Type  |Activity                      |Presenter      |
+|--------|--------|----------|---------------|------------------------------|---------------|
+|8:30    |9:00    |TSRB first floor event space|Check in|Sign in, pick up name tag and schedule|Qiao Zhang     |
+|9:00    |9:20    |TSRB 132  |Opening/Intro  |Welcome & Overview            |Chris MacLellan|
+|9:20    |9:30    |TSRB 132  |Opening/Intro  |Schedule Overview             |Qiao Zhang     |
+|9:30    |10:00   |TSRB 132  |Talk           |STRONG Program Overview       |David Boothe   |
+|10:00   |10:30   |TSRB 132  |Talk/Demo      |Overview of Dice Adventure - Design and Rules|Erik Harpstead |
+|10:30   |11:00   |TSRB 132  |Talk           |Dice Adventure Competition Overview|Qiao Zhang |
+|11:00   |12:00   |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
+|12:00   |13:00   |TSRB first floor event space|Break          |Lunch (catering)              |N/A            |
 
 Activities for the player track and the agent development track will run in parallel from 1 PM to 3 PM. We will come back together as a group at 3pm for the coffee break and the interactive demos.
 
 #### Player Track
 
-|Start  |End    | location | Session Type  |Activity                      |Presenter      |
-|-------|-------|----------|---------------|------------------------------|---------------|
-|1:00   |3:00   |TSRB 132  |Player Track      |Game Play Sessions    |Moderators: Varun Girdhar, Jack Dong|
+|Start   |End     | location | Session Type  |Activity                      |Presenter      |
+|--------|--------|----------|---------------|------------------------------|---------------|
+|13:00   |15:00   |TSRB 132  |Player Track      |Game Play Sessions    |Moderators: Varun Girdhar, Jack Dong|
 
 #### Agent Development Track
 
-|Start  |End    | location | Session Type  |Activity                      |Presenter      |
-|-------|-------|----------|---------------|------------------------------|---------------|
-|1:00   |1:30   |TSRB 118 Auditorium|Agent Track Tutorial       |Dice Adventure Unity Setup & Level Spec Descriptions|Erik Harpstead |
-|1:30   |2:00   |TSRB 118 Auditorium|Agent Track Tutorial       |Agent training environment setup    |Glen Smith     |
-|2:00   |3:00  |TSRB 118 Auditorium|Agent Track Working Session|Working on agent             |Moderators: Glen Smith, Chris MacLellan, Ziyu Li|
+|Start   |End    | location | Session Type  |Activity                      |Presenter      |
+|--------|--------|----------|---------------|------------------------------|---------------|
+|13:00   |13:30   |TSRB 118 Auditorium|Agent Track Tutorial       |Dice Adventure Unity Setup & Level Spec Descriptions|Erik Harpstead |
+|13:30   |14:00   |TSRB 118 Auditorium|Agent Track Tutorial       |Agent training environment setup    |Glen Smith     |
+|14:00   |15:00   |TSRB 118 Auditorium|Agent Track Working Session|Working on agent             |Moderators: Glen Smith, Chris MacLellan, Ziyu Li|
 
-|Start  |End    | location | Session Type  |Activity                      |Presenter      |
-|-------|-------|----------|---------------|------------------------------|---------------|
-|3:00   |3:30   |TSRB First Floor Event Space|Break          |Coffee break and networking   |N/A            |
-|3:30   |4:00   |TSRB 132  |Firehose       |Brief demo presentation       |Jieyu Zhou<br> Leon Lange|
-|4:00   |5:00   |TSRB 132  |Interactive Demos|VAL<br> Space Transit              |Jieyu Zhou<br> Leon Lange|
-|6:30   |8:00   |[Cypress](https://maps.app.goo.gl/mhMYDn9pxKgUXvx86) |Dinner         |Dinner reception  |N/A            |
+|Start   |End     | location | Session Type  |Activity                      |Presenter      |
+|--------|--------|----------|---------------|------------------------------|---------------|
+|15:00   |15:30   |TSRB First Floor Event Space|Break          |Coffee break and networking   |N/A            |
+|15:30   |16:00   |TSRB 132  |Firehose       |Brief demo presentation       |Jieyu Zhou<br> Leon Lange|
+|16:00   |17:00   |TSRB 132  |Interactive Demos|VAL<br> Space Transit              |Jieyu Zhou<br> Leon Lange|
+|18:30   |20:00   |[Cypress](https://maps.app.goo.gl/mhMYDn9pxKgUXvx86) |Dinner         |Dinner reception  |N/A            |
 
 Dinner is optional. We will walk together as a group and leave for dinner from TSRB at around 6pm.
 
 
 ### Day 2 Schedule (6/25)
 
-|Start  |End    | location | Session Type  |Activity                      |Presenter      |
-|-------|-------|----------|---------------|------------------------------|---------------|
-|8:30   |9:00   |TSRB first floor event space|Check in|Sign in, pick up badge and schedule|Qiao Zhang     |
-|9:00   |9:20   |TSRB 132  |Opening/Intro  |Welcome / Day 2 Overview      |Qiao Zhang     |
-|9:20   |10:30  |TSRB 132  |Interactive Demos|Agent Track Participants Firehose/Demos     |Open to sign up|
-|10:30  |12:00  |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
-|12:00  |1:00   |TSRB first floor event space|Break          |Lunch (catering)              |N/A            |
-|1:00   |3:00   |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
-|3:00   |3:30   |TSRB 132  |Announcement   |Announce Hackathon Awards     |Chris MacLellan|
-|3:00   |4:00   |TSRB 132  |Closing        |Closing Remarks               |Chris MacLellan|
-|4:00   |5:00   |TSRB 132  |Closing        |Overall Reflection & Discussion|Chris MacLellan|
+|Start   |End     | location | Session Type  |Activity                      |Presenter      |
+|--------|--------|----------|---------------|------------------------------|---------------|
+|8:30    |9:00    |TSRB first floor event space|Check in|Sign in, pick up name tag and schedule|Qiao Zhang     |
+|9:00    |9:20    |TSRB 132  |Opening/Intro  |Welcome / Day 2 Overview      |Qiao Zhang     |
+|9:20    |10:30   |TSRB 132  |Presentation   |Participant Presentations (open to sign up)|Hackathon Participants|
+|10:30   |12:00   |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
+|12:00   |15:00   |TSRB first floor event space|Break          |Lunch (catering)              |N/A            |
+|13:00   |15:00   |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
+|15:00   |15:30   |TSRB 132  |Announcement   |Announce Hackathon Awards     |Chris MacLellan|
+|15:00   |16:00   |TSRB 132  |Closing        |Closing Remarks               |Chris MacLellan|
+|16:00   |17:00   |TSRB 132  |Closing        |Overall Reflection & Discussion|Chris MacLellan|
 
 ## Travel and Accommodations
 
