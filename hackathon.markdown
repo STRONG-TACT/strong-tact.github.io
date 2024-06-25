@@ -89,8 +89,7 @@ Dinner is optional. We will walk together as a group and leave for dinner from T
 |12:00   |15:00   |TSRB first floor event space|Break          |Lunch (catering)              |N/A            |
 |13:00   |15:00   |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
 |15:00   |15:30   |TSRB 132  |Announcement   |Announce Hackathon Awards     |Chris MacLellan|
-|15:30   |16:00   |TSRB 132  |Closing        |Closing Remarks               |Chris MacLellan|
-|16:00   |17:00   |TSRB 132  |Closing        |Overall Reflection & Discussion|Chris MacLellan|
+|15:30   |16:30   |TSRB 132  |Closing        |Overall Reflection & Discussion|Chris MacLellan|
 
 ## Travel and Accommodations
 
