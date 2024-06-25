@@ -84,7 +84,7 @@ Dinner is optional. We will walk together as a group and leave for dinner from T
 |--------|--------|----------|---------------|------------------------------|---------------|
 |8:30    |9:00    |TSRB first floor event space|Check in|Sign in, pick up name tag and schedule|Qiao Zhang     |
 |9:00    |9:20    |TSRB 132  |Opening/Intro  |Welcome / Day 2 Overview      |Qiao Zhang     |
-|9:20    |10:30   |TSRB 132  |Presentation   |Participant Presentations (open to sign up)|Hackathon Participants|
+|9:20    |10:30   |TSRB 132  |Presentation   |Discussion of Dice Adventure Strategies|Hackathon Participants|
 |10:30   |12:00   |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
 |12:00   |15:00   |TSRB first floor event space|Break          |Lunch (catering)              |N/A            |
 |13:00   |15:00   |TSRB 132  |Game Play      |Session of Game Play          |N/A            |
