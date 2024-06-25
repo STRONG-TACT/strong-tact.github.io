@@ -22,8 +22,8 @@ A low fidelity version of Dice Adventure including the agent training environmen
 ## Submit an Agent
 
 <!-- add submission portal -->
-The submission portal for Dice Adventure hackathon and CoG competition was opened on 5/1/2024 and will be closed on 7/1/2024. To submit an agent, please fill out this [submission form](https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6) and upload your submission (zip file only) to this [Dropbox link](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId).
+The submission portal for Dice Adventure hackathon and CoG competition was opened on May 1, 2024 and will be closed on July 7, 2024. To submit an agent, please fill out this [submission form](https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6) and upload your submission (zip file only) to this [Dropbox link](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId).
 
 Please reach out to us at [glensmith@gatech.edu](mailto:glensmith@gatech.edu) and [qzhang490@gatech.edu](mailto:qzhang490@gatech.edu) if you come across any technical issues.
 
-Last updated on May 1, 2024.
+Last updated on June 25, 2024.
