@@ -9,6 +9,8 @@ order: 2
 * TOC
 {:toc}
 
+> 📢 News! <br>
+> June 25 --- Agent submission deadline has been extended to July 7.
 
 ## Getting started
 
@@ -26,4 +28,4 @@ The submission portal for Dice Adventure hackathon and CoG competition was opene
 
 Please reach out to us at [glensmith@gatech.edu](mailto:glensmith@gatech.edu) and [qzhang490@gatech.edu](mailto:qzhang490@gatech.edu) if you come across any technical issues.
 
-Last updated on June 25, 2024.
+Last updated on July 2, 2024.
