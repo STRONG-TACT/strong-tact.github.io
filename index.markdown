@@ -12,8 +12,7 @@ thumbnail: "/files/welcome.png"
 
 > 📢 News! <br>
 > Join us on [Slack](https://join.slack.com/t/dice-adventure/shared_invite/zt-2ia9cgtkn-VAKxgzLBYlS9tzKWmE8ePA) channel for most up-to-date information. \\
-> [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
-) to play Dice Adventure and compete for the prizes! \\
+> Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from July 15, 2024 to July 21, 2024. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
 >~~June 25 --- Agent submission deadline has been extended to July 7.~~ \\
 > ~~May 8 --- Dice Adventure is online! See [Game](/game) for more details.~~ \\
 > ~~May 1 --- The agent submission portal is open! See [Submission](submission.markdown) for details.~~
