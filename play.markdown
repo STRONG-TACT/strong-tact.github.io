@@ -10,7 +10,7 @@ order: 3
 {:toc}
 
 > 📢 News! <br>
-> July 15 --- Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from July 15, 2024 to July 21, 2024. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
+> July 15 --- Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 21, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
 > June 23 --- [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to play Dice Adventure and compete for the prizes! \\
 <!-- > Competition sign up link and match-making schedule will be released soon! -->
 
@@ -34,4 +34,4 @@ We will be organizing a series of in-person and virtual match-making events. The
 - **In-person**: there will be a game competition at the in-person hackathon. Please see the [hackathon](/hackathon/) page for detailed schedule. 
 - **Online**: we will be organizing a few virtual match-making events outside of the in-person hackathon event. Detailed information and schedule will be posted soon.
 
-Last updated on July 15, 2024.
+Last updated on July 16, 2024.
