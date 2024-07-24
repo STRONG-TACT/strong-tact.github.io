@@ -10,7 +10,7 @@ order: 3
 {:toc}
 
 > 📢 News! <br>
-> July 15 --- Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 21, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
+> July 15 --- Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 27, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
 > June 23 --- [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to play Dice Adventure and compete for the prizes! \\
 <!-- > Competition sign up link and match-making schedule will be released soon! -->
 
@@ -19,7 +19,7 @@ order: 3
 |Hop on a game and play Dice Adventure online.               |Sign up to play with pther players and compete for the prizes.                 |
 
 ## How to Play
-Dice Adventure is now available on [itch.io](https://cmu-tact.itch.io/dice-adventure). We will also release a local build of the game for players to explore and for developers to test their agents. You can jump on the game and play at any time from **May 8, 2024** to **July 21, 2024**. The AI agent will be online on **June 15, 2024**. Virtual match making events will be hosted between **July 15, 2024** and **July 21, 2024**. The game supports two play modes --- the *practice* mode and the *competition* mode. In the *practice* mode, you can switch between the three characters to get familiar with the game. The *competition* mode will only be available at match-making events.
+Dice Adventure is now available on [itch.io](https://cmu-tact.itch.io/dice-adventure). We will also release a local build of the game for players to explore and for developers to test their agents. You can jump on the game and play at any time from **May 8, 2024** to **July 7, 2024**. The AI agent will be online on **June 15, 2024**. Virtual match making events will be hosted between **July 16, 2024** and **July 27, 2024**. The game supports two play modes --- the *practice* mode and the *competition* mode. In the *practice* mode, you can switch between the three characters to get familiar with the game. The *competition* mode will only be available at match-making events.
 
 <!-- exhibition mode -->
 <!-- tournament mode -->
@@ -34,4 +34,4 @@ We will be organizing a series of in-person and virtual match-making events. The
 - **In-person**: there will be a game competition at the in-person hackathon. Please see the [hackathon](/hackathon/) page for detailed schedule. 
 - **Online**: we will be organizing a few virtual match-making events outside of the in-person hackathon event. Detailed information and schedule will be posted soon.
 
-Last updated on July 16, 2024.
+Last updated on July 24, 2024.

@@ -12,7 +12,7 @@ thumbnail: "/files/welcome.png"
 
 > 📢 News! <br>
 > Join us on [Slack](https://join.slack.com/t/dice-adventure/shared_invite/zt-2ia9cgtkn-VAKxgzLBYlS9tzKWmE8ePA) channel for most up-to-date information. \\
-> Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 21, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
+> Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 27, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
 >~~June 25 --- Agent submission deadline has been extended to July 7.~~ \\
 > ~~May 8 --- Dice Adventure is online! See [Game](/game) for more details.~~ \\
 > ~~May 1 --- The agent submission portal is open! See [Submission](submission.markdown) for details.~~
@@ -67,7 +67,7 @@ The following video provides an overview to the competition tracks, rules, short
 |~~Dice Adventure Hackathon~~                           |~~June 24-25, 2024~~     |
 |~~Agent submission portal closes~~                     |~~July 7, 2024~~         |
 |Online participation starts                        |July 16, 2024        |
-|Online participation ends                          |July 21, 2024        |
+|Online participation ends                          |July 27, 2024        |
 |Winners announced on website                       |End of July, 2024    |
 |Conference on Games                                |August 5-8, 2024     |
 
@@ -117,6 +117,6 @@ Ziyu Li, [ziyul@andrew.cmu.edu](ziyul@andrew.cmu.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
 
-Last updated on July 16, 2024.
+Last updated on July 24, 2024.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
