@@ -53,12 +53,23 @@ The following video provides an overview to the competition tracks, rules, short
 
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
-|~~Release game play demo videos~~                      |~~Januray 1, 2025~~       |
-|~~Release game tutorial~~                              |~~January 1, 2025~~       |
-|Release agent training environment                 |March 1, 2025       |
-|Release low fidelity version of Dice Adventure     |March 1, 2025       |
-|Release a playable version of the game             |March 1, 2025       |
-|Winners announced on website                       |Early August, 2025  |
+|~~Release competition tracks and rules~~               |~~January 1, 2025~~         |
+|~~Release evaluation criteria~~                        |~~January 1, 2025~~         |
+|~~Release leaderboard design~~                         |~~January 1, 2025~~         |
+|~~Release game tutorial~~                              |~~January 15, 2025~~        |
+|~~Release game play demo videos~~                      |~~Januray 15, 2025~~        |
+|~~Release training environment set up tutorial~~       |~~January 15, 2025~~        |
+|Release a local build of the game                  |March 1, 2025       |
+|Release the Unity project for the game             |March 1, 2025       |
+|Release agent submission template                  |March 1, 2025       |
+|Relase competition registration links              |March 1, 2025       |
+|Agent submission portal opens                      |March 1, 2025       |
+|Agent submission portal closes                     |May 31, 2025        |
+|Online matchmaking portal opens                    |June 1, 2025        |
+|Online matchmaking portal closes                   |June 30, 2025       |
+|Release competition results                        |July 31, 2025       |
+|Winners announced on the website                   |July 31, 2025       |
+|Release competition report                         |August 20, 2025     |
 |Conference on Games                                |August 26-29, 2025  |
 
 <!-- |~~[CoG auxiliary paper](https://2024.ieee-cog.org/call-proposals/#cfp) submission deadline~~                |~~Apr 28, 2024~~             |
