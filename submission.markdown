@@ -16,6 +16,8 @@ order: 2
 
 Welcome to the *Agent Development Track*! The following tutorial video will walk you through the steps to set up agent training environment.
 
+<!-- TODO: need a new tutorial that shows testing in local build-->
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v28wHsi7jyo?si=8WERkqug7L2UlC_l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Training Environment

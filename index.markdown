@@ -30,18 +30,13 @@ thumbnail: "/files/welcome.png"
 
 
 
-Welcome to the second Dice Adventure Human-AI Teaming Competition! We were selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/) and we are planning to host a second iteration of the competition. In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
+Welcome to the second Dice Adventure Human-AI Teaming Competition! We ran the firsr iteration of the competition in 2024 as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/) and we are returning this year. In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
 
-We offer two tracks and welcome participantas at all levels. To participate, you must sign up for one or both track(s). If you are interested in developing an agent, please check out the guidelines in [Submit AI](submission.markdown) page for *agent development track*. The starter code and training environment can be accessed at the [Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents) repo on GitHub. If you do not wish to submit an agent but are still interested in this competition, please check out the details on the [Play](/play/) page for signing up as a player in the *player track*. We will be hosting a few virtual and in-person match-making events to bring players together.
+We offer two tracks and welcome participantas at all levels. To participate, you must sign up for one or both track(s). If you are interested in developing an agent, please check out the guidelines in [Submit AI](submission.markdown) page for *agent development track*. The starter code and training environment can be accessed at the [Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents) repo on GitHub. If you do not wish to submit an agent but are still interested in this competition, please check out the details on the [Play](/play/) page for signing up as a player in the *player track*. We will be hosting a few virtual and in-person matchmaking events to bring players together.
 
-As part of the match-making events, we will be hosting an in-person hackathon event at Georgia Institute of Technology in Atlanta, GA in the United States. The hackathon is a free event that welcomes students, researchers, developers and anyone interested in our game and competition to get together. We will be organizing a series of tutorial sessions, interactive demos, working sessions and game tournaments during the two-day event. RSVP information, event schedule and accommodation suggestions can be found at the [Hackathon](/hackathon/) page.
+<!-- As part of the match-making events, we will be hosting an in-person hackathon event at Georgia Institute of Technology in Atlanta, GA in the United States. The hackathon is a free event that welcomes students, researchers, developers and anyone interested in our game and competition to get together. We will be organizing a series of tutorial sessions, interactive demos, working sessions and game tournaments during the two-day event. RSVP information, event schedule and accommodation suggestions can be found at the [Hackathon](/hackathon/) page. -->
 
 The following video provides an overview to the competition tracks, rules, short game tutorial and information on setting up the training environment. We hope to bring exciting experiences to the participants and exploring critical human-AI teaming questions to gain a better understanding in team communication, coordination, and adaptation.
-
-<!-- TODO
-- hackathon info
-- scoring function -->
-
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cvV_hTAYgy4?si=qu2tJ5bUwP8vhw-x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -72,17 +67,6 @@ The following video provides an overview to the competition tracks, rules, short
 |Release competition report                         |August 20, 2025     |
 |Conference on Games                                |August 26-29, 2025  |
 
-<!-- |~~[CoG auxiliary paper](https://2024.ieee-cog.org/call-proposals/#cfp) submission deadline~~                |~~Apr 28, 2024~~             |
-|~~Release leaderboard design~~                         |~~May 1, 2024~~         |
-|~~Release evaluation criteria~~                        |~~May 1, 2024~~          |
-|~~Release Fully functional game~~                      |~~May 8, 2024~~          |
-|~~Release game with AI interface~~                     |~~June 15, 2024~~        |
-|~~Hackathon signup ends~~                              |~~June 24, 2024~~        |
-|~~Dice Adventure Hackathon~~                           |~~June 24-25, 2024~~     |
-|~~Agent submission portal closes~~                     |~~July 7, 2024~~         |
-|~~Online participation starts~~                        |~~July 16, 2024~~        |
-|~~Online participation ends~~                          |~~July 27, 2024~~        | -->
-
 
 ## Evaluation Criteria
 
@@ -111,6 +95,7 @@ Details will be released soon.
 🥇 1st place - $500 USD<br>
 🥈 2nd place - $300 USD<br>
 🥉 3rd place - $200 USD<br> -->
+
 
 ## Form and Links
 
