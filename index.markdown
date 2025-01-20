@@ -11,7 +11,7 @@ thumbnail: "/files/welcome.png"
 
 
 > 📢 News! <br>
-> July 28 --- 🙏Thank you all for your participation! The 2024 Dice Adventure Competition has came to an end. Winners will be announced on our website in ear August. \\
+> Jan 19 --- We are preparing for the Dice Adventure Competition 2025, stay tuned! \\
 > Join us on [Slack](https://join.slack.com/t/dice-adventure/shared_invite/zt-2ia9cgtkn-VAKxgzLBYlS9tzKWmE8ePA) channel for most up-to-date information. \\
 <!-- > ~~Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 27, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)!~~ \\
 > ~~June 25 --- Agent submission deadline has been extended to July 7.~~ \\
@@ -30,7 +30,7 @@ thumbnail: "/files/welcome.png"
 
 
 
-Welcome to the first Dice Adventure Human-AI Teaming Competition! We are selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/). In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
+Welcome to the second Dice Adventure Human-AI Teaming Competition! We were selected as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/) and we are planning to host a second iteration of the competition. In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
 
 We offer two tracks and welcome participantas at all levels. To participate, you must sign up for one or both track(s). If you are interested in developing an agent, please check out the guidelines in [Submit AI](submission.markdown) page for *agent development track*. The starter code and training environment can be accessed at the [Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents) repo on GitHub. If you do not wish to submit an agent but are still interested in this competition, please check out the details on the [Play](/play/) page for signing up as a player in the *player track*. We will be hosting a few virtual and in-person match-making events to bring players together.
 
@@ -53,23 +53,24 @@ The following video provides an overview to the competition tracks, rules, short
 
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
-|~~Release agent training environment~~                 |~~March 15, 2024~~       |
-|~~Release low fidelity version of Dice Adventure~~     |~~March 15, 2024~~       |
-|~~Release a playable version of the game~~             |~~March 15, 2024~~       |
-|~~Release game tutorial~~                              |~~March 15, 2024~~       |
-|~~[CoG auxiliary paper](https://2024.ieee-cog.org/call-proposals/#cfp) submission deadline~~                |~~Apr 28, 2024~~             |
-|~~Release game play demo videos~~                      |~~May 1, 2024~~          |
+|~~Release game play demo videos~~                      |~~Januray 1, 2025~~       |
+|~~Release game tutorial~~                              |~~January 1, 2025~~       |
+|Release agent training environment                 |March 1, 2025       |
+|Release low fidelity version of Dice Adventure     |March 1, 2025       |
+|Release a playable version of the game             |March 1, 2025       |
+|Winners announced on website                       |Early August, 2025  |
+|Conference on Games                                |August 26-29, 2025  |
+
+<!-- |~~[CoG auxiliary paper](https://2024.ieee-cog.org/call-proposals/#cfp) submission deadline~~                |~~Apr 28, 2024~~             |
 |~~Release leaderboard design~~                         |~~May 1, 2024~~         |
 |~~Release evaluation criteria~~                        |~~May 1, 2024~~          |
 |~~Release Fully functional game~~                      |~~May 8, 2024~~          |
-|~~Release game with AI interface~~                     |~~June 15, 2024        ~~|
+|~~Release game with AI interface~~                     |~~June 15, 2024~~        |
 |~~Hackathon signup ends~~                              |~~June 24, 2024~~        |
 |~~Dice Adventure Hackathon~~                           |~~June 24-25, 2024~~     |
 |~~Agent submission portal closes~~                     |~~July 7, 2024~~         |
 |~~Online participation starts~~                        |~~July 16, 2024~~        |
-|~~Online participation ends~~                          |~~July 27, 2024~~        |
-|Winners announced on website                       |Early August, 2024   |
-|Conference on Games                                |August 5-8, 2024     |
+|~~Online participation ends~~                          |~~July 27, 2024~~        | -->
 
 
 ## Evaluation Criteria
@@ -92,31 +93,36 @@ As the goal of the competition is to better understand human-AI teaming dynamics
 
 ## Prizes
 
-Our competition is sponsored by the IEEE Computational Intelligence Society Education Competition Fund with a total cash prize of **$1,000 USD**, which will be awarded to participating teams ranking at the top three places on the [leaderboard](leaderboard.markdown). The prize will be equally distributed among team members --- human players and agent developers of agents. Below is the distribution of prizes:
+Details will be released soon.
+
+<!-- Our competition is sponsored by the IEEE Computational Intelligence Society Education Competition Fund with a total cash prize of **$1,000 USD**, which will be awarded to participating teams ranking at the top three places on the [leaderboard](leaderboard.markdown). The prize will be equally distributed among team members --- human players and agent developers of agents. Below is the distribution of prizes:
 
 🥇 1st place - $500 USD<br>
 🥈 2nd place - $300 USD<br>
-🥉 3rd place - $200 USD<br>
+🥉 3rd place - $200 USD<br> -->
 
 ## Form and Links
 
-Player track signup form: [https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
+Registration link and agent submission link will be released in March, 2025.
+
+<!-- Player track signup form: [https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
 ](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
 )\\
 ~~Hackathon signup form:[https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6)~~ \\
 ~~Agent submission form: [https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6](https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6)~~ \\
-~~Agent file submission link: [https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId)~~
+~~Agent file submission link: [https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId)~~ -->
 
 
 ## Organizers
 Qiao Zhang, [qzhang490@gatech.edu](qzhang490@gatech.edu) \\
 Glen Smith, [glensmith@gatech.edu](glensmith@gatech.edu) \\
 Varun Girdhar, [vgirdhar@andrew.cmu.edu](vgirdhar@andrew.cmu.edu) \\
-Yuxuan Dong, [yuxuando@andrew.cmu.edu](yuxuando@andrew.cmu.edu) \\
 Ziyu Li, [ziyul@andrew.cmu.edu](ziyul@andrew.cmu.edu) \\
+Avery Gong, [xgong80@gatech.edu](xgong80@gatech.edu) \\
+Shreyas Ravishanker, [sravishanker3@gatech.edu](sravishanker3@gatech.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
 
-Last updated on July 28, 2024.
+Last updated on January 19, 2025.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
