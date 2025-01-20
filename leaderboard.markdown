@@ -3,7 +3,7 @@ title: Hackathon Leaderboard
 nav_title: Leaderboard
 permalink: /leaderboard/
 layout: page
-order: 5
+order: 4
 ---
 
 |Rank            |Team ID         |Player A        |Player B        |Player C        |Total Score     |
