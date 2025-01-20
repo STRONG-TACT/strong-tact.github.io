@@ -19,9 +19,9 @@ thumbnail: "/files/welcome.png"
 > ~~May 1 --- The agent submission portal is open! See [Submission](submission.markdown) for details.~~ -->
 
 
-|[Submit an Agent](/submission/) 🤖       |[Play Online](/play/) 🌐         |[Play In Person](/hackathon/) 🎲       |
+|[Submit an Agent](/submission/) 🤖       |[Play the Game](/play/) 🌐         |
 |----------------------|---------------------|----------------------|
-|Design, develop and train AI agents that can play the game.                |Play the game online at multiple virtual match-making event.                 |Sign up for the in-person hackathon and play the game in person.                  |
+|Design, develop and train AI agents that can play the game.                |Play the game online at multiple virtual match-making event.                 |
 
 
 
