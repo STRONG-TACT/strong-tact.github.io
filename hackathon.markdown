@@ -3,7 +3,8 @@ title: Dice Adventure Hackathon
 nav_title: Hackathon
 permalink: /hackathon/
 layout: page
-order: 4
+exclude: true
+# order: 4
 ---
 
 * TOC
