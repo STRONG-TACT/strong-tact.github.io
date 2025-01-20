@@ -8,7 +8,8 @@ order: 5
 
 The 2024 competition has been concluded. We thank all participants for attending and playing our game!
 
-[Hackathon](hackathon.markdown)
+[2024 Hackathon](hackathon.markdown) \\
+[2024 Competition Report](https://drive.google.com/file/d/15CsFjjArwBT6RsKYwW_ueI5S73PHRWU9/view?usp=sharing)
 
 > 📢 News! <br>
 > July 28 --- 🙏Thank you all for your participation! The 2024 Dice Adventure Competition has came to an end. Winners will be announced on our website in ear August. \\
