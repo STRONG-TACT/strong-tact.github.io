@@ -60,6 +60,7 @@ The following video provides an overview to the competition tracks, rules, short
 |Relase competition registration links              |March 1, 2025       |
 |Agent submission portal opens                      |March 1, 2025       |
 |Agent submission portal closes                     |May 31, 2025        |
+|CoG auxiliary paper deadline                       |June 1, 2025        |
 |Online matchmaking portal opens                    |June 1, 2025        |
 |Online matchmaking portal closes                   |June 30, 2025       |
 |Release competition results                        |July 31, 2025       |
