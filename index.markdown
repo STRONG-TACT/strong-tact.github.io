@@ -11,8 +11,9 @@ thumbnail: "/files/welcome.png"
 
 
 > 📢 News! <br>
-> Jan 19 --- We are preparing for the Dice Adventure Competition 2025, stay tuned! \\
+> Jan 31 --- We are hosting the 2nd iteration of Dice Adventure Competition at Conference on Games 2025! \\
 > Join us on [Slack](https://join.slack.com/t/dice-adventure/shared_invite/zt-2ia9cgtkn-VAKxgzLBYlS9tzKWmE8ePA) channel for most up-to-date information. \\
+> ~~Jan 19 --- We are preparing for the Dice Adventure Competition 2025, stay tuned!~~ \\
 <!-- > ~~Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 27, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)!~~ \\
 > ~~June 25 --- Agent submission deadline has been extended to July 7.~~ \\
 > ~~May 8 --- Dice Adventure is online! See [Game](/game) for more details.~~ \\
@@ -30,7 +31,7 @@ thumbnail: "/files/welcome.png"
 
 
 
-Welcome to the second Dice Adventure Human-AI Teaming Competition! We ran the firsr iteration of the competition in 2024 as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/) and we are returning this year. In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
+Welcome to the second Dice Adventure Human-AI Teaming Competition! We ran the first iteration of the competition in 2024 as one of the game-AI competitions hosted at 2024 [Conference on Games](https://2024.ieee-cog.org/) and we are returning this year. In this competition, we are using an in-house developed game called Dice Adventure as the environment and encourage participants to explore human-AI teaming effects. Dice Adventure is a multi-player turn-based dungeon crawling game that takes three players to play. Detailed information on game rules, game tutorial and frequently asked questions can be found at [Game](game.markdown) page.
 
 We offer two tracks and welcome participantas at all levels. To participate, you must sign up for one or both track(s). If you are interested in developing an agent, please check out the guidelines in [Submit AI](submission.markdown) page for *agent development track*. The starter code and training environment can be accessed at the [Dice-Adventure-Agents](https://github.com/STRONG-TACT/Dice-Adventure-Agents) repo on GitHub. If you do not wish to submit an agent but are still interested in this competition, please check out the details on the [Play](/play/) page for signing up as a player in the *player track*. We will be hosting a few virtual and in-person matchmaking events to bring players together.
 
@@ -109,6 +110,8 @@ Registration link and agent submission link will be released in March, 2025.
 ~~Agent submission form: [https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6](https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6)~~ \\
 ~~Agent file submission link: [https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId)~~ -->
 
+
+## Related Publications
 
 ## Organizers
 Qiao Zhang, [qzhang490@gatech.edu](qzhang490@gatech.edu) \\
