@@ -86,13 +86,13 @@ As the goal of the competition is to better understand human-AI teaming dynamics
 
 ## Prizes
 
-Details will be released soon.
+<!-- Details will be released soon. -->
 
-<!-- Our competition is sponsored by the IEEE Computational Intelligence Society Education Competition Fund with a total cash prize of **$1,000 USD**, which will be awarded to participating teams ranking at the top three places on the [leaderboard](leaderboard.markdown). The prize will be equally distributed among team members --- human players and agent developers of agents. Below is the distribution of prizes:
+Our competition is sponsored by the IEEE Computational Intelligence Society Education Competition Fund with a total cash prize of **$1,000 USD**, which will be awarded to participating teams ranking at the top three places on the [leaderboard](leaderboard.markdown) when the competition ends. The prize will be equally distributed among team members --- human players and agent developers of agents. Below is the distribution of prizes:
 
 🥇 1st place - $500 USD<br>
 🥈 2nd place - $300 USD<br>
-🥉 3rd place - $200 USD<br> -->
+🥉 3rd place - $200 USD<br>
 
 
 ## Form and Links
