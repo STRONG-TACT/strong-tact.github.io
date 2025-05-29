@@ -19,7 +19,7 @@ thumbnail: "/files/welcome.png"
 
 |[Submit an Agent](/submission/) 🤖       |[Play the Game](/play/) 🌐         |
 |----------------------|---------------------|----------------------|
-|Design, develop and train AI agents that can play the game.                |Play the game online at multiple virtual match-making event.                 |
+|Design, develop and train AI agents that can play the game.                |Play the game at your pace or attend multiple matchmaking event.                 |
 
 
 
