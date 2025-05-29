@@ -27,9 +27,11 @@ We provided a random agent under "examples" folder that you can use to test agen
         - Clone the [game repo](https://github.com/STRONG-TACT/HMT-Game-1).
         - Open in Unity editor and hit ▶️.
     - You can also connect to a local build of the game.
-        - [Download the latest build](https://github.com/STRONG-TACT/HMT-Game-1/actions) that is compatible with your system.
+        - Log in to GitHub and [download the latest build](https://github.com/STRONG-TACT/HMT-Game-1/actions) that is compatible with your system.
         - Double click to run the **.exe** file
 3. Run `python play_game.py`.
+
+**Note**: The artifacts can only be downlowed after login to GitHub.
 
 <!-- <iframe width="640" height="360" src="https://www.youtube.com/embed/v28wHsi7jyo?si=8WERkqug7L2UlC_l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
@@ -44,4 +46,4 @@ The submission portal for Dice Adventure hackathon and CoG competition was opene
 
 Please reach out to us at [glensmith@gatech.edu](mailto:glensmith@gatech.edu) and [qzhang490@gatech.edu](mailto:qzhang490@gatech.edu) if you come across any technical issues.
 
-Last updated on May 28, 2025.
+Last updated on May 29, 2025.
