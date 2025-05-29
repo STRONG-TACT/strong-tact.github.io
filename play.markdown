@@ -10,11 +10,12 @@ order: 3
 {:toc}
 
 > 📢 News! <br>
-> July 15 --- Daily virtual match making session available at **8am - 10am EST, 12pm-2pm EST, 8pm - 10pm EST** from **July 16, 2024** to **July 27, 2024**. [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to [compete](https://cmu-tact.itch.io/dice-adventure)! \\
-> June 23 --- [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) to play Dice Adventure and compete for the prizes! \\
+> May 28 --- Virtual and in-person plaay sessions will be hosted in July, 2025. Stay tuned! \\
+> May 1 --- [Sign up](https://gatech.co1.qualtrics.com/jfe/form/SV_1IlcmOGhbH43OMm) to play Dice Adventure and compete for the prizes! \\
+
 <!-- > Competition sign up link and match-making schedule will be released soon! -->
 
-|[Play Dice Adventure](https://cmu-tact.itch.io/dice-adventure) 🎮       |[Sign Up to Compete](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI) 🏆         |
+|[Play Dice Adventure](https://cmu-tact.itch.io/dice-adventure) 🎮       |[Sign Up to Compete](https://gatech.co1.qualtrics.com/jfe/form/SV_1IlcmOGhbH43OMm) 🏆         |
 |----------------------|---------------------|
 |Hop on a game and play Dice Adventure online.               |Sign up to play with pther players and compete for the prizes.                 |
 
