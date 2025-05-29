@@ -97,14 +97,12 @@ Our competition is sponsored by the IEEE Computational Intelligence Society Educ
 
 ## Form and Links
 
-Registration link and agent submission link will be released in March, 2025.
+<!-- Registration link and agent submission link will be released in March, 2025. -->
 
-<!-- Player track signup form: [https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
-](https://gatech.co1.qualtrics.com/jfe/form/SV_bqqsRdimotXh8nI
-)\\
-~~Hackathon signup form:[https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6](https://gatech.co1.qualtrics.com/jfe/form/SV_cBkazbWRdGRW9y6)~~ \\
-~~Agent submission form: [https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6](https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6)~~ \\
-~~Agent file submission link: [https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId)~~ -->
+Player track signup form: [https://gatech.co1.qualtrics.com/jfe/form/SV_1IlcmOGhbH43OMm
+](https://gatech.co1.qualtrics.com/jfe/form/SV_1IlcmOGhbH43OMm)\\
+Agent submission form: [https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6](https://gatech.co1.qualtrics.com/jfe/form/SV_6Qd51ZHWarDyzu6) \\
+Agent file submission link: [https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId](https://www.dropbox.com/request/5Fnu21FIHgVk9pnTmxId)
 
 
 ## Related Publications
