@@ -10,8 +10,8 @@ order: 1
 {:toc}
 
 > 📢 News! <br>
-> Dice Adventure is online at [https://cmu-tact.itch.io/dice-adventure](https://cmu-tact.itch.io/dice-adventure)!
-<!-- > Dice Adventure will be officially released on May 8, 2024. -->
+> Dice Adventure is [online](https://cmu-tact.itch.io/dice-adventure])! \\
+> Dice Adventure can also be [downloaded](https://github.com/STRONG-TACT/HMT-Game-1/actions) (need GitHub login).
 
 <!-- <video src="/files/DiceAdventureGameplayTrailer.mp4" width="560" height="360" controls></video> -->
 
@@ -43,4 +43,4 @@ Yes.
 4. Can I select agents to play with?
 5. Can I select levels to play?
 
-Last updated on May 7, 2024.
+Last updated on May 29, 2025.
