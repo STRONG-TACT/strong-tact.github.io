@@ -46,18 +46,18 @@ The following video provides an overview to the competition tracks, rules, short
 
 | Key Dates<br/>All deadlines are 11:59pm UTC-12:00 (anywhere on Earth) |                     |
 |---------------------------------------------------|---------------------|
-|~~Release competition tracks and rules~~               |~~January 1, 2025~~         |
-|~~Release evaluation criteria~~                        |~~January 1, 2025~~         |
-|~~Release leaderboard design~~                         |~~January 1, 2025~~         |
-|~~Release game tutorial~~                              |~~January 15, 2025~~        |
-|~~Release game play demo videos~~                      |~~Januray 15, 2025~~        |
-|~~Release training environment set up tutorial~~       |~~January 15, 2025~~        |
-|Release a local build of the game                      |~~March 1, 2025~~       |
-|Release the Unity project for the game                 |~~March 1, 2025~~       |
-|Release agent submission template                      |~~March 1, 2025~~       |
-|Relase competition registration links                  |~~March 1, 2025~~       |
-|Agent submission portal opens                          |~~March 1, 2025~~       |
-|CoG auxiliary paper deadline                           |May 30, 2025        |
+|~~Release competition tracks and rules~~               |~~January 1, 2025~~     |
+|~~Release evaluation criteria~~                        |~~January 1, 2025~~     |
+|~~Release leaderboard design~~                         |~~January 1, 2025~~     |
+|~~Release game tutorial~~                              |~~January 15, 2025~~    |
+|~~Release game play demo videos~~                      |~~Januray 15, 2025~~    |
+|~~Release training environment set up tutorial~~       |~~January 15, 2025~~    |
+|~~Release a local build of the game~~                  |~~March 1, 2025~~       |
+|~~Release the Unity project for the game~~             |~~March 1, 2025~~       |
+|~~Release agent submission template~~                  |~~March 1, 2025~~       |
+|~~Relase competition registration links~~              |~~March 1, 2025~~       |
+|~~Agent submission portal opens~~                      |~~March 1, 2025~~       |
+|~~CoG auxiliary paper deadline~~                       |~~May 30, 2025~~        |
 |Agent submission portal closes                         |~~May 31, 2025~~ June 15, 2025        |
 |Online matchmaking portal opens                        |~~June 1, 2025~~ July 1, 2025         |
 |Online matchmaking portal closes                       |~~June 30, 2025~~ July 30, 2025       |
@@ -117,6 +117,6 @@ Shreyas Ravishanker, [sravishanker3@gatech.edu](sravishanker3@gatech.edu) \\
 Erik Harpstead, [harpstead@cmu.edu](harpstead@cmu.edu) \\
 Christopher J. MacLellan, [cmaclellan3@gatech.edu](cmaclellan3@gatech.edu)
 
-Last updated on May 28, 2025.
+Last updated on June 4, 2025.
 
 <!-- Dice Adventure is a multi-player, turn-based, dungeon crawling adventure game developed at Carnegie Mellon University. This is the first time for us to host the Dice Adventure Human-AI teaming competition. There are two tracks of the competition - (1) participants can submit their agents to the agent track;  (2) participants can play with other players and submitted agents in the player track. Agents submitted to the agent track will play with players in the player track and be evaluated on the team score they achieved after running multiple levels of games. Winners will be declared based on overall teaming performance. We hope to bring exciting experiences to the participants as well as exploring critical human-AI teaming questions and gain a better understanding in team communication, coordination and adaptation. An introduction of the competition can be found in [this video](https://www.youtube.com/watch?v=cvV_hTAYgy4). -->
